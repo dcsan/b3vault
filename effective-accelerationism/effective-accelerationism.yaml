@@ -1,0 +1,60 @@
+name: effective-accelerationism
+overview: >-
+  Effective accelerationism is a political and philosophical concept that
+  advocates for the acceleration of societal and technological progress in order
+  to bring about radical change and transformation. It is a form of radical
+  politics that seeks to dismantle the existing systems of power and create a
+  more equitable and just society through the harnessing of technology and the
+  forces of capitalism.
+
+
+  At its core, effective accelerationism is a rejection of traditional leftist
+  ideas of gradual reform and gradualism. It argues that attempting to reform or
+  work within the existing systems of power is inherently futile and will only
+  serve to perpetuate and reinforce the oppressive structures of capitalism.
+  Instead, effective accelerationism calls for a complete overhaul of the
+  current systems, through the acceleration of technological advancements and
+  the disruption of traditional social, economic, and political institutions.
+
+
+  One of the key principles of effective accelerationism is the idea that
+  capitalism and technology can be harnessed for the greater good and used to
+  bring about radical change. This means embracing and accelerating the forces
+  of capitalism and technological innovation, rather than trying to resist or
+  slow them down. By embracing the rapid growth and change of these systems,
+  effective accelerationism believes that it is possible to create a more
+  equitable and just society, free from the constraints of traditional power
+  structures.
+
+
+  Another important aspect of effective accelerationism is the rejection
+elements:
+  - data:
+      source: capitalism
+      target: '- turbo-capitalism'
+      type: link
+  - data:
+      source: concepts
+      target: capitalism
+      type: link
+  - data:
+      id: '- turbo-capitalism'
+      text: >-
+        Turbo-capitalism refers to a form of capitalism characterized by extreme
+        competition, rapid technological advancements, and a focus on maximizing
+        profits at all costs, often leading to exploitation of workers and
+        resources.
+      type: node
+  - data:
+      id: capitalism
+      text: >-
+        Capitalism is an economic system based on private ownership of the means
+        of production and the pursuit of profit. It allows for competition and
+        market forces to determine prices and goods production.
+      type: node
+  - data:
+      id: effective-accelerationism
+      color: '#FF0088'
+      type: node
+      meta:
+        root: true
