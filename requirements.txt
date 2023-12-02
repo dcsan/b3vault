@@ -1,0 +1,6 @@
+requests
+langchain
+openai
+regex
+pyyaml
+instructor

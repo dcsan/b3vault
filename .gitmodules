@@ -1,0 +1,6 @@
+[submodule "autorepos/AutoGPT"]
+	path = autorepos/AutoGPT
+	url = git@github.com:Significant-Gravitas/AutoGPT.git
+[submodule "autorepos/gpt-engineer"]
+	path = autorepos/gpt-engineer
+	url = https://github.com/AntonOsika/gpt-engineer
