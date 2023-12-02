@@ -1,3 +1,7 @@
 ## effective-accelerationism
-undefined
+Effective-accelerationism is a political theory that aims to accelerate the collapse of the capitalist system in order to bring about a more egalitarian society. It is based on the idea that the current economic and political systems are inherently flawed and cannot be reformed from within. Instead, the only way to achieve meaningful change is to speed up the processes of destruction and crisis that are already inherent within capitalism.
+
+The term "effective-accelerationism" was first coined by philosopher Nick Land in the 1990s, and has since been developed by a number of theorists and activists. One of the key principles of this theory is the belief in the inevitability of capitalism's self-destruction. Proponents argue that rather than trying to delay or mitigate this process, it should be actively encouraged and accelerated in order to bring about its collapse and pave the way for a new society.
+
+One of the main strategies proposed by effective-accelerationists is the use of technology to disrupt and undermine the capitalist system. This includes promoting the use of automation and artificial intelligence to replace human labor, as well as advocating for the widespread adoption of cryptocurrencies and other decentralized technologies to undermine the power of traditional financial institutions. The goal is to create a situation of chaos and disruption that will ultimately lead to
 

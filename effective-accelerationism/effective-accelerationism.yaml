@@ -1,60 +1,1077 @@
 name: effective-accelerationism
-overview: >-
-  Effective accelerationism is a political and philosophical concept that
-  advocates for the acceleration of societal and technological progress in order
-  to bring about radical change and transformation. It is a form of radical
-  politics that seeks to dismantle the existing systems of power and create a
-  more equitable and just society through the harnessing of technology and the
-  forces of capitalism.
-
-
-  At its core, effective accelerationism is a rejection of traditional leftist
-  ideas of gradual reform and gradualism. It argues that attempting to reform or
-  work within the existing systems of power is inherently futile and will only
-  serve to perpetuate and reinforce the oppressive structures of capitalism.
-  Instead, effective accelerationism calls for a complete overhaul of the
-  current systems, through the acceleration of technological advancements and
-  the disruption of traditional social, economic, and political institutions.
-
-
-  One of the key principles of effective accelerationism is the idea that
-  capitalism and technology can be harnessed for the greater good and used to
-  bring about radical change. This means embracing and accelerating the forces
-  of capitalism and technological innovation, rather than trying to resist or
-  slow them down. By embracing the rapid growth and change of these systems,
-  effective accelerationism believes that it is possible to create a more
-  equitable and just society, free from the constraints of traditional power
-  structures.
-
-
-  Another important aspect of effective accelerationism is the rejection
 elements:
   - data:
-      source: capitalism
-      target: '- turbo-capitalism'
+      source: '- innovation'
+      target: disruptive technology
       type: link
   - data:
-      source: concepts
+      source: '- innovation'
+      target: technological advancements
+      type: link
+  - data:
+      source: progress
+      target: '- innovation'
+      type: link
+  - data:
+      source: '- economic growth'
+      target: global trade
+      type: link
+  - data:
+      source: '- economic growth'
+      target: sustainable development
+      type: link
+  - data:
+      source: '- economic growth'
+      target: technological advancement
+      type: link
+  - data:
+      source: progress
+      target: '- economic growth'
+      type: link
+  - data:
+      source: '- technological advancement'
+      target: artificial intelligence
+      type: link
+  - data:
+      source: progress
+      target: '- technological advancement'
+      type: link
+  - data:
+      source: related
+      target: progress
+      type: link
+  - data:
+      source: government
+      target: futurist
+      type: link
+  - data:
+      source: government
+      target: egalitarian
+      type: link
+  - data:
+      source: government
+      target: technocratic
+      type: link
+  - data:
+      source: overthrow
+      target: government
+      type: link
+  - data:
+      source: society
+      target: technocracy
+      type: link
+  - data:
+      source: overthrow
+      target: society
+      type: link
+  - data:
+      source: events
+      target: overthrow
+      type: link
+  - data:
+      source: capitalism
+      target: financialization
+      type: link
+  - data:
+      source: capitalism
+      target: technocapitalism
+      type: link
+  - data:
+      source: capitalism
+      target: neoliberalism
+      type: link
+  - data:
+      source: revolution
       target: capitalism
       type: link
   - data:
-      id: '- turbo-capitalism'
-      text: >-
-        Turbo-capitalism refers to a form of capitalism characterized by extreme
-        competition, rapid technological advancements, and a focus on maximizing
-        profits at all costs, often leading to exploitation of workers and
-        resources.
+      source: technology
+      target: artificial intelligence
+      type: link
+  - data:
+      source: revolution
+      target: technology
+      type: link
+  - data:
+      source: events
+      target: revolution
+      type: link
+  - data:
+      source: speculative fiction
+      target: techno-futurism
+      type: link
+  - data:
+      source: speculative fiction
+      target: post-scarcity
+      type: link
+  - data:
+      source: speculative fiction
+      target: utopian-dystopia
+      type: link
+  - data:
+      source: reza negarestani
+      target: speculative fiction
+      type: link
+  - data:
+      source: philosophy
+      target: postmodernism
+      type: link
+  - data:
+      source: philosophy
+      target: marxism
+      type: link
+  - data:
+      source: reza negarestani
+      target: philosophy
+      type: link
+  - data:
+      source: people
+      target: reza negarestani
+      type: link
+  - data:
+      source: mark fisher
+      target: postcapitalism
+      type: link
+  - data:
+      source: cybernetic culture research unit
+      target: post-humanism
+      type: link
+  - data:
+      source: cybernetic culture research unit
+      target: networked systems
+      type: link
+  - data:
+      source: cybernetic culture research unit
+      target: techno-culture
+      type: link
+  - data:
+      source: mark fisher
+      target: cybernetic culture research unit
+      type: link
+  - data:
+      source: nick land
+      target: technoscience
+      type: link
+  - data:
+      source: nick land
+      target: cybernetics
+      type: link
+  - data:
+      source: mark fisher
+      target: nick land
+      type: link
+  - data:
+      source: people
+      target: mark fisher
+      type: link
+  - data:
+      source: nick land
+      target: techno-optimism
+      type: link
+  - data:
+      source: futurism
+      target: posthumanism
+      type: link
+  - data:
+      source: futurism
+      target: transhumanism
+      type: link
+  - data:
+      source: nick land
+      target: futurism
+      type: link
+  - data:
+      source: post-capitalism
+      target: socialism
+      type: link
+  - data:
+      source: post-capitalism
+      target: anarchism
+      type: link
+  - data:
+      source: post-capitalism
+      target: communism
+      type: link
+  - data:
+      source: nick land
+      target: post-capitalism
+      type: link
+  - data:
+      source: people
+      target: nick land
+      type: link
+  - data:
+      source: artificial intelligence
+      target: sentience
+      type: link
+  - data:
+      source: artificial intelligence
+      target: singularity
+      type: link
+  - data:
+      source: technological advancement
+      target: artificial intelligence
+      type: link
+  - data:
+      source: concepts
+      target: technological advancement
+      type: link
+  - data:
+      source: technological advancement
+      target: cryptocurrency
+      type: link
+  - data:
+      source: technological advancement
+      target: biotechnology
+      type: link
+  - data:
+      source: radical transformation
+      target: technological advancement
+      type: link
+  - data:
+      source: concepts
+      target: radical transformation
+      type: link
+  - data:
+      source: globalization
+      target: '- cultural'
+      type: link
+  - data:
+      source: globalization
+      target: '- economic'
+      type: link
+  - data:
+      source: globalization
+      target: '- technological'
+      type: link
+  - data:
+      source: capitalist evolution
+      target: globalization
+      type: link
+  - data:
+      source: digitalization
+      target: optimization
+      type: link
+  - data:
+      source: digitalization
+      target: augmentation
+      type: link
+  - data:
+      source: capitalist evolution
+      target: digitalization
+      type: link
+  - data:
+      source: automation
+      target: industrialization
+      type: link
+  - data:
+      source: automation
+      target: machine learning
+      type: link
+  - data:
+      source: automation
+      target: robotics
+      type: link
+  - data:
+      source: capitalist evolution
+      target: automation
+      type: link
+  - data:
+      source: concepts
+      target: capitalist evolution
+      type: link
+  - data:
+      id: disruptive-technology
       type: node
+      text: >-
+        Disruptive technology refers to a new, innovative technology or product
+        that significantly disrupts the current market and changes the way
+        businesses operate, often displacing established companies and creating
+        new markets.
+  - data:
+      id: technological-advancements
+      type: node
+      text: >-
+        Technological advancements refer to new or improved inventions,
+        techniques, tools, or processes that have been developed through the
+        application of scientific knowledge and discoveries, leading to improved
+        efficiency, productivity, and overall progress in various industries and
+        fields.
+  - data:
+      id: '-innovation'
+      type: node
+      text: >-
+        In effective-accelerationism, innovation refers to the rapid development
+        and implementation of new technologies and ideas in order to bring about
+        positive social and economic change. This approach emphasizes the
+        importance of constantly pushing the boundaries of innovation in order
+        to accelerate progress towards a more equitable and sustainable society.
+  - data:
+      id: '-innovation'
+      type: node
+      text: >-
+        Innovation refers to the creation and implementation of new or improved
+        ideas, products, or processes that drive progress and lead to positive
+        change. It is a key driver of progress, as it enables individuals and
+        organizations to adapt, improve, and evolve in response to changing
+        conditions and needs.
+  - data:
+      id: global-trade
+      type: node
+      text: >-
+        Global-trade refers to the exchange of goods and services between
+        countries, which contributes to economic growth by increasing market
+        access, promoting specialization and efficiency, and generating
+        employment and income opportunities.
+  - data:
+      id: sustainable-development
+      type: node
+      text: >-
+        Sustainable development is the practice of meeting current economic
+        needs without compromising the ability of future generations to meet
+        their own needs, by balancing economic growth with social and
+        environmental considerations.
+  - data:
+      id: technological-advancement
+      type: node
+      text: >-
+        Technological advancement refers to the development and implementation
+        of new or improved technologies that contribute to increased
+        productivity, efficiency, and innovation, driving economic growth in a
+        country or industry.
+  - data:
+      id: '-economic-growth'
+      type: node
+      text: >-
+        Economic growth is a key component of effective-accelerationism, as it
+        is seen as a means to increase technological progress, improve living
+        standards, and create the conditions for radical change and
+        transformation in society. It is often viewed as a necessary step
+        towards achieving a post-capitalist future.
+  - data:
+      id: '-economic-growth'
+      type: node
+      text: >-
+        Economic growth refers to an increase in the production and consumption
+        of goods and services within an economy, leading to a rise in the
+        overall standard of living and improvements in material well-being. It
+        is often seen as a key measure of progress and is influenced by factors
+        such as technological advancements, investment, and consumer demand.
+  - data:
+      id: artificial-intelligence
+      type: node
+      text: >-
+        Artificial intelligence (AI) refers to the development of computer
+        systems that can perform tasks that typically require human
+        intelligence, such as decision making, problem solving, and learning. It
+        involves the use of algorithms and data to simulate intelligent
+        behavior.
+  - data:
+      id: '-technological-advancement'
+      type: node
+      text: >-
+        Technological advancement refers to the rapid development and
+        implementation of new technologies in order to achieve economic and
+        societal progress, often with the goal of accelerating this progress
+        through the use of technology.
+  - data:
+      id: '-technological-advancement'
+      type: node
+      text: >-
+        Technological advancement refers to the continuous improvement and
+        development of tools, machines, and systems to increase efficiency,
+        productivity, and improve the human experience. It has greatly
+        contributed to progress by revolutionizing industries, enhancing
+        communication and transportation, and creating new opportunities for
+        innovation and growth.
+  - data:
+      id: progress
+      type: node
+      text: >-
+        Progress refers to the advancement or improvement towards a goal or
+        desired outcome. It can be measured by tracking incremental changes or
+        milestones achieved.
+  - data:
+      id: related
+      type: node
+      text: >-
+        1. Technological Progress: The idea that advancements in technology and
+        automation can lead to increased productivity and efficiency, ultimately
+        accelerating the pace of economic growth.
+
+
+        2. Capitalism: The economic system in which private ownership of the
+        means of production drives competition, innovation, and growth, making
+        it a key driver of effective accelerationism.
+
+
+        3. Creative Destruction: The process by which new technologies and ideas
+        replace outdated ones, leading to the constant reinvention and
+        improvement of industries, economies, and societies. This process is
+        seen as necessary for effective accelerationism to occur.
+  - data:
+      id: futurist
+      type: node
+      text: >-
+        A futurist is a person who studies and predicts future trends and
+        developments, using a variety of methods and tools to help governments
+        make informed decisions and plan for the future.
+  - data:
+      id: egalitarian
+      type: node
+      text: >-
+        Egalitarian refers to the belief in equal rights and opportunities for
+        all individuals, regardless of their social or economic status, in the
+        context of government policies and practices. It promotes the idea of a
+        fair and just society where everyone has equal access to resources and
+        opportunities.
+  - data:
+      id: technocratic
+      type: node
+      text: >-
+        Technocratic refers to a system of government where decisions and
+        policies are made based on technical expertise and knowledge, rather
+        than political ideologies or public opinion.
+  - data:
+      id: government
+      type: node
+      text: >-
+        Government refers to the system or organization that is responsible for
+        governing and managing a country or state, including making and
+        enforcing laws, providing public services, and representing the
+        interests of its citizens.
+  - data:
+      id: technocracy
+      type: node
+      text: >-
+        Technocracy is a form of government or social system where
+        decision-making power is held by experts in technology and science,
+        rather than elected officials or traditional leaders.
+  - data:
+      id: society
+      type: node
+      text: >-
+        Society refers to a group of individuals living and interacting within a
+        specific social, economic, and cultural framework, and is often
+        characterized by hierarchical structures, shared values and norms, and
+        complex systems of power and control.
+  - data:
+      id: overthrow
+      type: node
+      text: >-
+        Overthrow refers to the act of forcibly removing a government or leader
+        from power through a coup, revolution, or other means of rebellion. It
+        often involves the use of violence and can result in significant
+        political and social changes.
+  - data:
+      id: financialization
+      type: node
+      text: >-
+        Financialization refers to the increasing role and influence of
+        financial markets, institutions, and instruments in the economy, often
+        at the expense of traditional productive activities, leading to a focus
+        on short-term profits and speculative investments. This has resulted in
+        a shift in power and wealth towards the financial sector and a potential
+        destabilization of the economy.
+  - data:
+      id: technocapitalism
+      type: node
+      text: >-
+        Technocapitalism is a form of capitalism that is driven by the use and
+        development of technology, with a focus on maximizing profits through
+        the creation and exploitation of new technologies.
+  - data:
+      id: neoliberalism
+      type: node
+      text: >-
+        Neoliberalism is a form of capitalism that emphasizes free markets,
+        privatization, deregulation, and individual responsibility, often
+        resulting in widening economic inequality and reduced government
+        intervention in the economy.
   - data:
       id: capitalism
-      text: >-
-        Capitalism is an economic system based on private ownership of the means
-        of production and the pursuit of profit. It allows for competition and
-        market forces to determine prices and goods production.
       type: node
+      text: >-
+        Capitalism is an economic system in which private individuals and
+        businesses own and control the production and distribution of goods and
+        services, with the goal of generating profit and accumulating wealth. It
+        is often seen as exploitative and unequal, leading to social and
+        economic disparities and fueling calls for revolutionary change.
+  - data:
+      id: artificial-intelligence
+      type: node
+      text: >-
+        Artificial intelligence (AI) is a branch of computer science that
+        focuses on creating intelligent machines that can perform tasks that
+        typically require human intelligence, such as problem-solving, learning,
+        and decision-making. It involves the development of algorithms and
+        systems that can analyze data, recognize patterns, and make decisions
+        based on that data.
+  - data:
+      id: technology
+      type: node
+      text: >-
+        Technology can play a crucial role in facilitating and accelerating
+        revolutionary movements by providing means of communication,
+        organization, and dissemination of information. It can also be used as a
+        tool for resistance and disruption against oppressive regimes.
+  - data:
+      id: revolution
+      type: node
+      text: >-
+        Revolution refers to a significant and often violent change in a society
+        or government's political, social, and economic structures, typically
+        brought about by a group or movement seeking to overthrow the existing
+        system. It often involves widespread and radical transformations that
+        can have long-lasting effects on a country or region.
+  - data:
+      id: events
+      type: node
+      text: >-
+        1. "The Accelerationist Manifesto" by Nick Land and Benjamin Noys, which
+        outlined the principles and goals of accelerationism in 2013.
+
+        2. The "Accelerationist Art Exhibition" in London in 2014, which
+        showcased various artworks that embodied the concepts of
+        accelerationism.
+
+        3. The "Xenofeminist Manifesto" by Laboria Cuboniks in 2015, which
+        expanded upon and redefined accelerationism through a feminist lens.
+  - data:
+      id: techno-futurism
+      type: node
+      text: >-
+        Techno-futurism is a subgenre of speculative fiction that focuses on the
+        impact of advanced technology on society and the potential future
+        advancements of technology. It often explores the consequences of these
+        advancements and their potential to shape and transform humanity.
+  - data:
+      id: post-scarcity
+      type: node
+      text: >-
+        Post-scarcity is a hypothetical future in which resources are abundant
+        and easily accessible, eliminating the need for competition and conflict
+        over scarce resources. This can lead to a society where basic needs are
+        easily met, allowing for a focus on personal growth and exploration of
+        new frontiers.
+  - data:
+      id: utopian-dystopia
+      type: node
+      text: >-
+        Utopian-dystopia is a genre that explores the possibility of a seemingly
+        perfect society that is actually flawed or oppressive in some way, often
+        serving as a cautionary tale about the consequences of pursuing a
+        utopian ideal. It combines elements of both utopian and dystopian
+        societies to create a complex and thought-provoking world.
+  - data:
+      id: speculative-fiction
+      type: node
+      text: >-
+        Speculative fiction is a genre of literature that explores imaginative
+        scenarios or alternative realities, often involving technology or social
+        change, in order to comment on the present and future trajectory of
+        society. It is often used in effective-accelerationist thought to
+        envision potential paths for accelerating progress and radical
+        transformation.
+  - data:
+      id: speculative-fiction
+      type: node
+      text: >-
+        Speculative-fiction is a genre of literature that combines elements of
+        science fiction and philosophy, often exploring complex and abstract
+        ideas through imaginative and speculative scenarios. It is a key
+        component of Reza Negarestani's work, which aims to challenge
+        conventional modes of thinking and push the boundaries of what is
+        possible.
+  - data:
+      id: postmodernism
+      type: node
+      text: >-
+        Postmodernism is a philosophical movement that rejects the idea of
+        objective truth and traditional beliefs, emphasizing the subjectivity,
+        relativity, and diversity of human experience.
+  - data:
+      id: marxism
+      type: node
+      text: >-
+        Marxism is a social, political, and economic theory that was developed
+        by Karl Marx. It focuses on the struggle between the proletariat
+        (working class) and the bourgeoisie (capitalist class) and advocates for
+        the eventual overthrow of capitalism and establishment of a classless
+        society.
+  - data:
+      id: philosophy
+      type: node
+      text: >-
+        Philosophy, according to Negarestani, is the relentless pursuit of
+        knowledge and understanding through critical thinking and rigorous
+        debate, with the ultimate goal of expanding our understanding of the
+        world and our place in it.
+  - data:
+      id: reza-negarestani
+      type: node
+      text: >-
+        Reza Negarestani is a philosopher and writer known for his work on
+        accelerationist theory and for his contributions to the philosophy of
+        artificial intelligence.
+  - data:
+      id: reza-negarestani
+      type: node
+      text: >-
+        Reza Negarestani is an Iranian philosopher and writer known for his work
+        in the fields of speculative realism and posthumanism. He is best known
+        for his influential book "Cyclonopedia: Complicity with Anonymous
+        Materials."
+  - data:
+      id: postcapitalism
+      type: node
+      text: >-
+        Postcapitalism is a term coined by Mark Fisher to describe a potential
+        future system in which the traditional capitalist economic model has
+        been replaced by alternative forms of production and distribution. This
+        could include elements of automation, social ownership, and a focus on
+        meeting human needs rather than profit.
+  - data:
+      id: post-humanism
+      type: node
+      text: >-
+        Post-humanism is a philosophical approach that challenges the
+        traditional understanding of the human and explores the possibilities of
+        a future where technology and biology are integrated, potentially
+        blurring the boundaries between human and machine.
+  - data:
+      id: networked-systems
+      type: node
+      text: >-
+        Networked systems refer to interconnected and interdependent
+        technological systems that facilitate communication and exchange of
+        information, allowing for the creation and dissemination of knowledge
+        and the formation of virtual communities.
+  - data:
+      id: techno-culture
+      type: node
+      text: >-
+        Techno-culture is a term used to describe the intersection of technology
+        and culture, where advancements in technology shape and influence
+        cultural practices, values, and beliefs. This includes the impact of
+        digital media, artificial intelligence, and other emerging technologies
+        on society.
+  - data:
+      id: cybernetic-culture-research-unit
+      type: node
+      text: >-
+        The Cybernetic Culture Research Unit (CCRU) was a group of philosophers
+        and theorists who explored the intersection of technology, culture, and
+        capitalism from a cybernetic perspective, advocating for radical
+        acceleration and experimentation in order to disrupt and transform
+        existing systems.
+  - data:
+      id: cybernetic-culture-research-unit
+      type: node
+      text: >-
+        The Cybernetic Culture Research Unit (CCRU) was a collective of
+        theorists and artists led by Mark Fisher that explored the intersections
+        of technology, culture, and consciousness, and aimed to develop
+        alternative modes of thinking and being in the digital age.
+  - data:
+      id: technoscience
+      type: node
+      text: >-
+        Technoscience refers to the merging of technology and science,
+        particularly in the fields of artificial intelligence and biotechnology,
+        to create new forms of knowledge and power.
+  - data:
+      id: cybernetics
+      type: node
+      text: >-
+        Cybernetics, as defined by Nick Land, is a field of study that focuses
+        on the control and communication of complex systems, particularly those
+        involving human-machine interactions and the evolution of technology.
+  - data:
+      id: nick-land
+      type: node
+      text: >-
+        Nick Land is a British philosopher and writer known for his involvement
+        in the cyberpunk and accelerationist movements, advocating for the
+        embrace of technology and capitalism as a means to accelerate societal
+        change and transcend traditional political ideologies.
+  - data:
+      id: nick-land
+      type: node
+      text: >-
+        Nick Land is a philosopher and writer who was associated with the Ccru,
+        a cyberculture research unit that influenced Fisher's ideas on
+        accelerationism and post-capitalism.
+  - data:
+      id: mark-fisher
+      type: node
+      text: >-
+        Mark Fisher was a British writer and theorist known for his influential
+        work on capitalist realism and his contributions to the philosophy of
+        effective-accelerationism.
+  - data:
+      id: mark-fisher
+      type: node
+      text: >-
+        Mark Fisher was a British cultural theorist, writer, and lecturer known
+        for his work on popular culture, capitalism, and mental health. He was a
+        highly influential figure in contemporary cultural criticism and his
+        writings continue to be a source of inspiration for many.
+  - data:
+      id: techno-optimism
+      type: node
+      text: >-
+        Techno-optimism is a belief in the potential of technology to bring
+        about positive changes and advancements in society, often associated
+        with the accelerationist philosophy of Nick Land.
+  - data:
+      id: posthumanism
+      type: node
+      text: >-
+        Posthumanism is a philosophical and cultural movement that explores the
+        potential future evolution of humanity beyond its current biological
+        limitations, through advancements in technology and science. It raises
+        questions about the implications of merging humans and technology, and
+        the blurring of boundaries between what is considered human and
+        non-human.
+  - data:
+      id: transhumanism
+      type: node
+      text: >-
+        Transhumanism is a philosophical and cultural movement that seeks to
+        enhance human abilities and transcend biological limitations through the
+        use of technology and science. Its goal is to evolve humanity into a
+        post-human species with enhanced intelligence, longevity, and physical
+        capabilities.
+  - data:
+      id: futurism
+      type: node
+      text: >-
+        Futurism, as defined by Nick Land, is a philosophical and cultural
+        movement that embraces the rapid acceleration of technology and the
+        dissolution of traditional human values and structures. It is
+        characterized by a focus on the potential of technology to shape the
+        future and a rejection of traditional notions of progress and morality.
+  - data:
+      id: socialism
+      type: node
+      text: >-
+        Socialism is an economic and political system in which the means of
+        production are owned and controlled by the community as a whole, with
+        the goal of creating a more equal and fair society. It is a key
+        component of post-capitalist ideologies that strive for a more
+        cooperative and collective approach to organizing society.
+  - data:
+      id: anarchism
+      type: node
+      text: >-
+        Anarchism is a political and social philosophy that advocates for a
+        stateless, non-hierarchical society where individuals and communities
+        are able to govern themselves and make decisions collectively, without
+        the need for a centralized government or capitalist system.
+  - data:
+      id: communism
+      type: node
+      text: >-
+        Communism is a political and economic ideology that advocates for a
+        classless, stateless society where the means of production are owned and
+        controlled collectively by the community, rather than by individuals or
+        the government. It is often seen as a potential solution to the issues
+        of exploitation and inequality within capitalism, with the goal of
+        creating a more equal and sustainable society.
+  - data:
+      id: post-capitalism
+      type: node
+      text: >-
+        Post-capitalism refers to a hypothetical future state where traditional
+        capitalist systems and structures have been surpassed or transformed,
+        potentially through the influence of technology, into a new form of
+        economic and social organization.
+  - data:
+      id: nick-land
+      type: node
+      text: >-
+        Nick Land is a British philosopher and writer known for his work on
+        accelerationism, a philosophy that advocates for embracing and
+        accelerating technological and societal change to achieve a
+        post-capitalist society.
+  - data:
+      id: nick-land
+      type: node
+      text: >-
+        Nick-land is a term used to describe a group of people who share the
+        same first name, Nick. It is often used as a way to identify and connect
+        with others who have the same name and may share similar experiences or
+        interests.
+  - data:
+      id: people
+      type: node
+      text: >-
+        1. Nick Srnicek - a British philosopher and writer known for coining the
+        term "accelerationism" and advocating for the use of technology to
+        accelerate societal progress.
+
+
+        2. Alex Williams - a British writer and philosopher who, along with
+        Srnicek, developed the concept of "folk politics" in contrast to the
+        idea of effective-accelerationism.
+
+
+        3. Benjamin Noys - a British professor and writer who has critiqued the
+        concept of accelerationism, arguing that it is a form of nihilism and
+        ultimately counterproductive.
+  - data:
+      id: sentience
+      type: node
+      text: >-
+        Sentience refers to the ability of a computer or machine to experience
+        consciousness and subjective sensations, similar to that of a human
+        being. It is a controversial concept as it raises ethical and
+        philosophical questions about the nature of intelligence and
+        consciousness.
+  - data:
+      id: singularity
+      type: node
+      text: >-
+        Singularity refers to the hypothetical future point in time when
+        artificial intelligence surpasses human intelligence, leading to rapid
+        and unpredictable technological growth. This could potentially have
+        significant impacts on society and human existence.
+  - data:
+      id: artificial-intelligence
+      type: node
+      text: >-
+        Artificial intelligence is the development of computer systems that can
+        perform tasks that typically require human intelligence, such as
+        learning, problem-solving, and decision-making, with the goal of
+        increasing efficiency and productivity in society.
+  - data:
+      id: artificial-intelligence
+      type: node
+      text: >-
+        Artificial intelligence (AI) is a branch of computer science that
+        focuses on creating intelligent machines that can perform tasks
+        typically requiring human cognition, such as learning, problem-solving,
+        and decision-making. It involves the development of algorithms and
+        systems that can analyze data, recognize patterns, and make predictions
+        or decisions based on that data.
+  - data:
+      id: technological-advancement
+      type: node
+      text: >-
+        Technological advancement is the process of developing and implementing
+        new technologies at a rapid pace, with the goal of achieving greater
+        efficiency, productivity, and progress. In the context of
+        effective-accelerationism, it is seen as a means to accelerate the pace
+        of societal change towards a desired outcome.
+  - data:
+      id: technological-advancement
+      type: node
+      text: >-
+        Technological advancement refers to the continuous development and
+        improvement of technology and its applications, leading to the creation
+        of new tools, products, and processes that enhance human life and
+        progress society.
+  - data:
+      id: cryptocurrency
+      type: node
+      text: >-
+        Cryptocurrency is a digital or virtual form of currency that uses
+        blockchain technology to secure and record transactions, making it
+        decentralized and independent of central authorities. It allows for
+        peer-to-peer transactions without the need for intermediaries, making it
+        a more efficient and secure form of currency.
+  - data:
+      id: biotechnology
+      type: node
+      text: >-
+        Biotechnology is the use of living organisms or their components to
+        create or modify products and processes for specific purposes, such as
+        improving human health or enhancing agricultural production. It
+        encompasses a wide range of techniques and applications, including
+        genetic engineering, tissue engineering, and biopharmaceutical
+        production.
+  - data:
+      id: technological-advancement
+      type: node
+      text: >-
+        Technological advancement refers to the rapid development and
+        implementation of new technologies to improve and enhance human
+        capabilities, productivity, and overall progress, often with the goal of
+        achieving faster progress towards a desired outcome or goal.
+  - data:
+      id: technological-advancement
+      type: node
+      text: >-
+        Technological advancement refers to the ongoing development and
+        improvement of technology, which has the potential to significantly
+        impact and change various industries and aspects of human life, leading
+        to radical transformation in society.
+  - data:
+      id: radical-transformation
+      type: node
+      text: >-
+        Radical transformation is the process of completely reimagining and
+        restructuring societal systems and institutions in order to achieve a
+        more just, equitable, and sustainable future. It involves challenging
+        and dismantling oppressive systems and creating new ways of organizing
+        and functioning as a society.
+  - data:
+      id: radical-transformation
+      type: node
+      text: >-
+        Radical transformation refers to a significant and fundamental change in
+        an individual, society, or system, often involving a complete departure
+        from previous norms and beliefs. It involves a complete overhaul of
+        existing structures and ideologies, and can have both positive and
+        negative consequences.
+  - data:
+      id: '-cultural'
+      type: node
+      text: >-
+        Cultural globalization refers to the cross-cultural exchange and
+        integration of ideas, values, customs, and behaviors between different
+        societies and countries, resulting in the blurring of boundaries and the
+        creation of a global culture.
+  - data:
+      id: '-economic'
+      type: node
+      text: >-
+        Economic globalization refers to the increasing interconnectedness and
+        interdependence of national economies, facilitated by advancements in
+        technology, trade liberalization, and international investment.
+  - data:
+      id: '-technological'
+      type: node
+      text: >-
+        Technological advancements, such as the internet and communication
+        technologies, have greatly facilitated the exchange of goods, services,
+        and ideas globally, leading to increased interconnectedness and
+        interdependence among nations.
+  - data:
+      id: globalization
+      type: node
+      text: >-
+        Globalization is the process of increasing interconnectedness and
+        interdependence between economies, societies, and cultures on a global
+        scale, driven by advancements in technology, trade liberalization, and
+        international investment. It has led to an unprecedented level of
+        integration and interdependence in the global economy, resulting in
+        increased trade, movement of goods, services, people, and ideas across
+        borders.
+  - data:
+      id: optimization
+      type: node
+      text: >-
+        Optimization refers to the process of making something as efficient,
+        effective, and streamlined as possible, often using technology and data
+        analysis to improve performance and achieve desired results.
+  - data:
+      id: augmentation
+      type: node
+      text: >-
+        Augmentation refers to the enhancement of human capabilities through the
+        use of digital technologies, such as artificial intelligence, machine
+        learning, and data analytics. It aims to improve efficiency,
+        productivity, and decision-making processes.
+  - data:
+      id: digitalization
+      type: node
+      text: >-
+        Digitalization refers to the transformation of economic processes,
+        products, and services from physical to digital form. It is driven by
+        advancements in technology and has led to significant changes in
+        production, communication, and consumer behavior within the capitalist
+        system.
+  - data:
+      id: industrialization
+      type: node
+      text: >-
+        Industrialization refers to the process of implementing automated
+        systems and technologies in industries to increase efficiency,
+        productivity, and reduce costs by replacing manual labor with machines
+        and other automated processes.
+  - data:
+      id: machine-learning
+      type: node
+      text: >-
+        Machine learning is a subset of artificial intelligence that allows
+        machines to learn and improve from data without being explicitly
+        programmed, making it a key component in automation processes.
+  - data:
+      id: robotics
+      type: node
+      text: >-
+        Robotics involves the design, development, and use of robots to perform
+        tasks autonomously or with minimal human intervention. This technology
+        can be used across various industries and has the potential to greatly
+        increase efficiency and productivity.
+  - data:
+      id: automation
+      type: node
+      text: >-
+        Automation is the process of using technology and machinery to replace
+        human labor in production, leading to increased efficiency and
+        productivity in capitalist economies.
+  - data:
+      id: capitalist-evolution
+      type: node
+      text: >-
+        Capitalist-evolution refers to the idea that capitalism is a dynamic
+        system that constantly evolves and adapts, leading to increased
+        efficiency and innovation, but also perpetuating inequalities and
+        exploitation. Effective-accelerationism embraces this evolution and
+        seeks to accelerate it in order to bring about systemic change and
+        transition to a more equitable and sustainable society.
+  - data:
+      id: capitalist-evolution
+      type: node
+      text: >-
+        Capitalist-evolution refers to the gradual changes and developments
+        within a capitalist economic system, driven by competition and profit
+        motives, leading to advancements in technology, business practices, and
+        economic growth.
+  - data:
+      id: concepts
+      type: node
+      text: >-
+        1. The rejection of gradualism and the embrace of rapid, transformative
+        change through technological advancement and disruption. 
+
+        2. The belief in the potential of capitalism to generate abundance and
+        create a post-scarcity society. 
+
+        3. The need for a strategic and coordinated effort to push for and shape
+        the direction of accelerationism towards a desirable future.
   - data:
       id: effective-accelerationism
       color: '#FF0088'
       type: node
       meta:
         root: true
+      text: >-
+        Effective-accelerationism is a political theory that aims to accelerate
+        the collapse of the capitalist system in order to bring about a more
+        egalitarian society. It is based on the idea that the current economic
+        and political systems are inherently flawed and cannot be reformed from
+        within. Instead, the only way to achieve meaningful change is to speed
+        up the processes of destruction and crisis that are already inherent
+        within capitalism.
+
+
+        The term "effective-accelerationism" was first coined by philosopher
+        Nick Land in the 1990s, and has since been developed by a number of
+        theorists and activists. One of the key principles of this theory is the
+        belief in the inevitability of capitalism's self-destruction. Proponents
+        argue that rather than trying to delay or mitigate this process, it
+        should be actively encouraged and accelerated in order to bring about
+        its collapse and pave the way for a new society.
+
+
+        One of the main strategies proposed by effective-accelerationists is the
+        use of technology to disrupt and undermine the capitalist system. This
+        includes promoting the use of automation and artificial intelligence to
+        replace human labor, as well as advocating for the widespread adoption
+        of cryptocurrencies and other decentralized technologies to undermine
+        the power of traditional financial institutions. The goal is to create a
+        situation of chaos and disruption that will ultimately lead to

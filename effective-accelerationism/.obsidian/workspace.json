@@ -1,39 +1,62 @@
 {
   "main": {
-    "id": "c9668e1955088a3c",
+    "id": "ac70b81cdd58273b",
     "type": "split",
     "children": [
       {
-        "id": "f70c32eafb557592",
-        "type": "tabs",
+        "id": "0bb2b20b3bc97195",
+        "type": "split",
         "children": [
           {
-            "id": "f28c50347d4851f9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "effective-accelerationism.md",
-                "mode": "preview",
-                "source": false
+            "id": "c161cb1353f3ac94",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "21aa62228347c774",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "graph",
+                  "state": {},
+                  "pinned": true
+                }
               }
-            }
+            ]
+          },
+          {
+            "id": "30d1346157f53c4c",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "6306ff1f9f5f7bd1",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "digitalization.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              }
+            ]
           }
-        ]
+        ],
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "fd2b2ff2b038dba8",
+    "id": "c5152ed447baba93",
     "type": "split",
     "children": [
       {
-        "id": "e864ce04715345f2",
+        "id": "267b260f2bd97c97",
         "type": "tabs",
         "children": [
           {
-            "id": "887f46f193a7eb24",
+            "id": "dcecde12b8782e3d",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -43,7 +66,7 @@
             }
           },
           {
-            "id": "2b8499f0834b2570",
+            "id": "d0f73e43908ca0aa",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -58,7 +81,7 @@
             }
           },
           {
-            "id": "5d145be070967cc5",
+            "id": "09cf8daf5eb5a871",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -72,44 +95,44 @@
     "width": 300
   },
   "right": {
-    "id": "ab1f57bd7f69d359",
+    "id": "2c579722b5a2936e",
     "type": "split",
     "children": [
       {
-        "id": "fc650d7940d7a047",
+        "id": "998ff910db5e452e",
         "type": "tabs",
         "children": [
           {
-            "id": "d159a31308ff20c4",
+            "id": "6c719beff3b6da28",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "effective-accelerationism.md",
+                "file": "digitalization.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
-                "backlinkCollapsed": true,
+                "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "00f4aec9c7b42be6",
+            "id": "721d0c8ccf8f90d7",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "effective-accelerationism.md",
+                "file": "digitalization.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "692f2362c26692d6",
+            "id": "e887e57caf589121",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -120,12 +143,12 @@
             }
           },
           {
-            "id": "8fadc3384beadfe7",
+            "id": "e20e90aed944c62d",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "effective-accelerationism.md"
+                "file": "digitalization.md"
               }
             }
           }
@@ -145,16 +168,33 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f28c50347d4851f9",
+  "active": "6306ff1f9f5f7bd1",
   "lastOpenFiles": [
-    "decentralization.md",
-    "capitalism.md",
-    "- turbo-capitalism.md",
-    "transhumanism.md",
-    "progress.md",
-    "futurism.md",
-    "effective-accelerationism.md",
     "_effective-accelerationism.md",
-    "effective-accelerationism.yaml"
+    "progress.md",
+    "capitalism.md",
+    "technocapitalism.md",
+    "neoliberalism.md",
+    "machine-learning.md",
+    "-innovation.md",
+    "cryptocurrency.md",
+    "overthrow.md",
+    "effective-accelerationism.md",
+    "concepts.md",
+    "capitalist-evolution.md",
+    "automation.md",
+    "robotics.md",
+    "industrialization.md",
+    "digitalization.md",
+    "augmentation.md",
+    "optimization.md",
+    "globalization.md",
+    "-technological.md",
+    "-economic.md",
+    "-cultural.md",
+    "radical-transformation.md",
+    "technological-advancement.md",
+    "biotechnology.md",
+    "artificial-intelligence.md"
   ]
 }

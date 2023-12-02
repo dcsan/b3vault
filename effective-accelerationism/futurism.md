@@ -1,5 +1,6 @@
 ## futurism
-Futurism is a movement and philosophy that emphasizes the rejection of traditional values and embraces technological advancements and progress towards a utopian future. It often includes elements of speed, youth, and dynamism in its portrayal of the future.
+Futurism, as defined by Nick Land, is a philosophical and cultural movement that embraces the rapid acceleration of technology and the dissolution of traditional human values and structures. It is characterized by a focus on the potential of technology to shape the future and a rejection of traditional notions of progress and morality.
 
 
+- [[posthumanism]]
 - [[transhumanism]]

@@ -1,5 +1,7 @@
 ## capitalism
-Capitalism is an economic system based on private ownership of the means of production and the pursuit of profit. It allows for competition and market forces to determine prices and goods production.
+Capitalism is an economic system in which private individuals and businesses own and control the production and distribution of goods and services, with the goal of generating profit and accumulating wealth. It is often seen as exploitative and unequal, leading to social and economic disparities and fueling calls for revolutionary change.
 
 
-- [[- turbo-capitalism]]
+- [[financialization]]
+- [[technocapitalism]]
+- [[neoliberalism]]
