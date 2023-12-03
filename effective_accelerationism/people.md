@@ -6,3 +6,10 @@
 
 - [[mark_fisher]]
 - [[nick_land]]
+```mermaid
+flowchart LR
+    
+
+people --> mark_fisher
+    people --> nick_land
+```

@@ -4,3 +4,9 @@ Cybernetic refers to the intersection of technology, biology, and the human mind
 
 - [[control]]
 - [[feedback]]
+```mermaid
+flowchart LR
+    nick_land --> cybernetic
+cybernetic --> control
+    cybernetic --> feedback
+```

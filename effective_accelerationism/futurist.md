@@ -3,3 +3,9 @@ Futurists are individuals who seek to predict and understand the future through 
 
 
 - [[ray_kurzweil]]
+
+```mermaid
+flowchart LR
+    nick_land --> futurist
+futurist --> ray_kurzweil
+```

@@ -4,3 +4,9 @@ Nick Land is a British philosopher and writer known for his controversial ideas 
 
 - [[futurist]]
 - [[cybernetic]]
+```mermaid
+flowchart LR
+    people --> nick_land
+nick_land --> futurist
+    nick_land --> cybernetic
+```

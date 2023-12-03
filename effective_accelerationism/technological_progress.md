@@ -4,4 +4,5 @@ Technological progress refers to the advancements and improvements in technology
 ```mermaid
 flowchart LR
     related --> technological_progress
+
 ```

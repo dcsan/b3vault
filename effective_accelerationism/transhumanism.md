@@ -4,3 +4,9 @@ Transhumanism is a philosophical and social movement that seeks to use technolog
 
 - [[singularitarianism]]
 - [[techno_optimism]]
+```mermaid
+flowchart LR
+    events --> transhumanism
+transhumanism --> singularitarianism
+    transhumanism --> techno_optimism
+```

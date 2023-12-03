@@ -4,3 +4,9 @@ Utopianism is a belief in the possibility of creating a perfect society, often t
 
 - [[postcapitalism]]
 - [[techno_utopianism]]
+```mermaid
+flowchart LR
+    mark_fisher --> utopianism
+utopianism --> postcapitalism
+    utopianism --> techno_utopianism
+```

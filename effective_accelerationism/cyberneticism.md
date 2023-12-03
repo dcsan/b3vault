@@ -4,3 +4,9 @@ Cyberneticism is a philosophical theory that examines the relationship between t
 
 - [[_networked]]
 - [[_decentralization]]
+```mermaid
+flowchart LR
+    mark_fisher --> cyberneticism
+cyberneticism --> _networked
+    cyberneticism --> _decentralization
+```

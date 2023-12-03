@@ -4,3 +4,9 @@ Mark Fisher was a British writer, cultural theorist, and music critic known for 
 
 - [[utopianism]]
 - [[cyberneticism]]
+```mermaid
+flowchart LR
+    people --> mark_fisher
+mark_fisher --> utopianism
+    mark_fisher --> cyberneticism
+```

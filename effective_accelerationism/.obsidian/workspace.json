@@ -13,10 +13,49 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "technological_progress.md",
+                "file": "utopianism.md",
                 "mode": "source",
                 "source": false
               }
+            }
+          },
+          {
+            "id": "bcc6b3de3fa0f18d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "progress.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "01275119be6097bf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "utopianism.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      },
+      {
+        "id": "f644c2cc00e1bed3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d32eed8fab20b155",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -38,7 +77,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "byModifiedTime"
               }
             }
           },
@@ -85,7 +124,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "technological_progress.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +140,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "technological_progress.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +161,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "technological_progress.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -145,33 +180,33 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2c45ad5ed9eb0c86",
+  "active": "d32eed8fab20b155",
   "lastOpenFiles": [
-    "technological_progress.md",
-    "futurist.md",
-    "mindmap.md",
-    "ray_kurzweil.md",
-    "concepts.md",
-    "technological_advancement.md",
-    "flowchart.md",
-    "effective_accelerationism.md",
-    "feedback.md",
-    "start.md",
-    "cybernetic.md",
-    "progress.md",
-    "technological_advancements.md",
-    "automation.md",
-    "ai.md",
-    "scientific_breakthroughs.md",
-    "quantum_computing.md",
-    "biotechnology.md",
-    "people.md",
-    "nick_land.md",
-    "control.md",
     "mark_fisher.md",
     "cyberneticism.md",
-    "decentralization.md",
+    "utopianism.md",
+    "ray_kurzweil.md",
     "networked.md",
-    "utopianism.md"
+    "feedback.md",
+    "technological_advancement.md",
+    "technological_advancements.md",
+    "progress.md",
+    "effective_accelerationism.md",
+    "ai.md",
+    "nick_land.md",
+    "futurist.md",
+    "people.md",
+    "automation.md",
+    "cybernetic.md",
+    "decentralization.md",
+    "technological_singularity.md",
+    "futurism.md",
+    "techno_utopianism.md",
+    "transhumanism.md",
+    "scientific_breakthroughs.md",
+    "start.md",
+    "flowchart.md",
+    "mindmap.md",
+    "wetland_rehabilitation.md"
   ]
 }

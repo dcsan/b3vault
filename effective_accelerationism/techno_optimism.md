@@ -3,3 +3,8 @@ Techno-optimism is the belief that advancements in technology will ultimately le
 
 
 - [[futurism]]
+```mermaid
+flowchart LR
+    transhumanism --> techno_optimism
+techno_optimism --> futurism
+```

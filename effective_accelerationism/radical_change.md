@@ -4,3 +4,18 @@ Radical change refers to a significant and fundamental shift in beliefs, attitud
 
 - [[_ecological_restoration]]
 - [[_technological_advancement]]
+
+
+```mermaid
+flowchart LR
+    related --> radical_change
+radical_change --> _ecological_restoration
+    radical_change --> _technological_advancement
+```
+
+```mermaid
+flowchart LR
+    related --> radical_change
+radical_change --> _ecological_restoration
+    radical_change --> _technological_advancement
+```

@@ -3,3 +3,8 @@ Singularitarianism is a belief within transhumanism that technological advanceme
 
 
 - [[technological_singularity]]
+```mermaid
+flowchart LR
+    transhumanism --> singularitarianism
+singularitarianism --> technological_singularity
+```

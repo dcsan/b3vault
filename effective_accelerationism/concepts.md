@@ -8,3 +8,10 @@
 
 - [[technological_advancement]]
 - [[progress]]
+```mermaid
+flowchart LR
+    
+
+concepts --> technological_advancement
+    concepts --> progress
+```

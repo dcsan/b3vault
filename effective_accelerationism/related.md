@@ -8,3 +8,11 @@
 
 - [[technological_progress]]
 - [[radical_change]]
+
+```mermaid
+flowchart LR
+    
+
+related --> technological_progress
+    related --> radical_change
+```

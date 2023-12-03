@@ -7,3 +7,9 @@
 
 
 - [[transhumanism]]
+```mermaid
+flowchart LR
+    
+
+events --> transhumanism
+```

@@ -7,3 +7,10 @@ Another important aspect of effective accelerationism is the emphasis on technol
 
 However, effective accelerationism
 
+
+```mermaid
+flowchart LR
+    
+
+
+```
