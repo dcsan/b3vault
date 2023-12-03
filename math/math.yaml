@@ -1,0 +1,174 @@
+name: math
+elements:
+  - data:
+      source: algebra
+      target: group
+      type: link
+  - data:
+      source: related
+      target: algebra
+      type: link
+  - data:
+      source: isaac_newton
+      target: calculus
+      type: link
+  - data:
+      source: people
+      target: isaac_newton
+      type: link
+  - data:
+      source: equation
+      target: pythagorean_theorem
+      type: link
+  - data:
+      source: concepts
+      target: equation
+      type: link
+  - data:
+      id: group
+      type: node
+      text: >-
+        A group is a set together with an operation that combines any two
+        elements to form a third element, satisfying certain axioms such as
+        closure, associativity, identity, and inverse. It is one of the
+        fundamental structures in algebra and is used to study symmetry and
+        transformations.
+  - data:
+      id: algebra
+      type: node
+      text: >-
+        Algebra is a branch of mathematics that deals with symbols and the rules
+        for manipulating these symbols to solve equations and understand
+        relationships between variables.
+  - data:
+      id: related
+      type: node
+      text: >-
+        1. Calculus: This branch of mathematics deals with the study of limits,
+        derivatives, and integrals, and is essential for understanding various
+        concepts related to change and motion.
+
+
+        2. Proportions: Proportions involve comparing two quantities and
+        determining their relationship in terms of ratio or proportion, which is
+        a key concept in various mathematical topics such as geometry, algebra,
+        and statistics.
+
+
+        3. Functions: A function is a relation between two sets of numbers where
+        each input has exactly one output. Understanding functions is crucial
+        for solving problems related to equations, graphs, and transformations.
+  - data:
+      id: events
+      type: node
+      text: >-
+        1. The development of calculus by Isaac Newton and Gottfried Leibniz in
+        the 17th century.
+
+        2. The publication of Euclid's "Elements" in the 3rd century BC, which
+        established the foundations of geometry and mathematical proofs.
+
+        3. The invention of the modern computer in the 20th century, which
+        revolutionized the way mathematical calculations and data analysis are
+        performed.
+  - data:
+      id: calculus
+      type: node
+      text: >-
+        Calculus is a branch of mathematics that deals with the study of
+        continuous change and motion, using methods of differentiation and
+        integration to solve problems involving rates of change and
+        accumulation. It was developed by Isaac Newton and Gottfried Leibniz in
+        the 17th century.
+  - data:
+      id: isaac_newton
+      type: node
+      text: >-
+        Isaac Newton was a renowned English mathematician, physicist, and
+        astronomer who is widely recognized for his laws of motion and theory of
+        gravity. He made significant contributions to the fields of mathematics,
+        optics, and mechanics, and is considered one of the most influential
+        scientists in history.
+  - data:
+      id: people
+      type: node
+      text: >-
+        1. Pythagoras - Greek mathematician and philosopher, known for his
+        contributions to geometry and the Pythagorean theorem.
+
+        2. Ada Lovelace - English mathematician and writer, considered to be the
+        world's first computer programmer for her work on Charles Babbage's
+        Analytical Engine.
+
+        3. Euclid - Greek mathematician, known as the "Father of Geometry" for
+        his work on the elements of geometry.
+  - data:
+      id: pythagorean_theorem
+      type: node
+      text: >-
+        The Pythagorean Theorem states that in a right triangle, the square of
+        the length of the hypotenuse (the side opposite the right angle) is
+        equal to the sum of the squares of the other two sides.
+  - data:
+      id: equation
+      type: node
+      text: >-
+        An equation is a mathematical statement that shows the equality between
+        two expressions or quantities using symbols, numbers, and mathematical
+        operations. It is used to represent relationships and solve problems in
+        mathematics and other fields.
+  - data:
+      id: concepts
+      type: node
+      text: >-
+        1. Numbers and Operations: This concept includes understanding the
+        properties and relationships of numbers, as well as how to perform basic
+        operations like addition, subtraction, multiplication, and division.
+
+
+        2. Geometry: This concept involves studying the properties and
+        relationships of shapes and figures, as well as learning how to measure
+        and calculate angles, areas, and volumes.
+
+
+        3. Algebra: This concept focuses on using symbols and equations to
+        represent and solve mathematical problems, including patterns,
+        equations, and functions. It also includes the study of variables and
+        their manipulation to solve equations and inequalities.
+  - data:
+      id: math
+      color: '#FF0088'
+      type: node
+      meta:
+        root: true
+      text: >-
+        Mathematics, often simply referred to as math, is a vast and complex
+        subject that deals with the study of numbers, quantities, shapes, and
+        patterns. It is a fundamental aspect of human life that has been studied
+        and developed for thousands of years, with its roots dating back to
+        ancient civilizations such as the Egyptians, Greeks, and Babylonians.
+
+
+        At its core, math involves the use of logical reasoning and critical
+        thinking to solve problems and understand relationships between
+        different mathematical concepts. It is a universal language that is used
+        to describe and explain the world around us, from the tiniest particles
+        in physics to the vastness of the universe.
+
+
+        The main branches of math include arithmetic, algebra, geometry,
+        trigonometry, calculus, and statistics. These branches are
+        interconnected, with each one building upon the foundations of the
+        others. Arithmetic, which deals with basic operations of addition,
+        subtraction, multiplication, and division, is often considered the most
+        fundamental branch of math and serves as the basis for more advanced
+        concepts.
+
+
+        Algebra, on the other hand, involves the use of symbols and equations to
+        represent and solve problems involving unknown quantities. It is a
+        powerful tool for solving real-world problems and is widely used in
+        fields such as engineering, economics, and physics.
+
+
+        Geometry is the branch of math

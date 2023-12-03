@@ -1,61 +1,23 @@
 {
   "main": {
-    "id": "61de92f9ebd3953b",
+    "id": "ea857e68eb2f373a",
     "type": "split",
     "children": [
       {
-        "id": "aaf8e4d5f87f09f5",
+        "id": "dd1994e76b8b3955",
         "type": "tabs",
         "children": [
           {
-            "id": "d680ad209975f218",
+            "id": "c6b5defeb92fed9a",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
-            },
-            "group": "24a3eab01cfa1ec9"
-          }
-        ]
-      },
-      {
-        "id": "843bea460215e930",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "ba1d8d0d840675c9",
-            "type": "leaf",
-            "state": {
-              "type": "localgraph",
+              "type": "markdown",
               "state": {
-                "options": {
-                  "collapse-filter": true,
-                  "search": "",
-                  "localJumps": 1,
-                  "localBacklinks": true,
-                  "localForelinks": true,
-                  "localInterlinks": false,
-                  "showTags": false,
-                  "showAttachments": false,
-                  "hideUnresolved": false,
-                  "collapse-color-groups": true,
-                  "colorGroups": [],
-                  "collapse-display": true,
-                  "showArrow": false,
-                  "textFadeMultiplier": 0,
-                  "nodeSizeMultiplier": 1,
-                  "lineSizeMultiplier": 1,
-                  "collapse-forces": true,
-                  "centerStrength": 0.518713248970312,
-                  "repelStrength": 10,
-                  "linkStrength": 1,
-                  "linkDistance": 250,
-                  "scale": 1.5000000000000004,
-                  "close": true
-                }
+                "file": "mermaid.md",
+                "mode": "source",
+                "source": false
               }
-            },
-            "group": "24a3eab01cfa1ec9"
+            }
           }
         ]
       }
@@ -63,15 +25,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "b8f100b7b18d2fa4",
+    "id": "8a2fc315ac638c89",
     "type": "split",
     "children": [
       {
-        "id": "fefb135d5e8166fb",
+        "id": "edfe79c1baa170ff",
         "type": "tabs",
         "children": [
           {
-            "id": "e0a2563d9a02b59a",
+            "id": "4df37bd4a40cf09d",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -81,7 +43,7 @@
             }
           },
           {
-            "id": "55516f5f96b65ae4",
+            "id": "eb967c873c7ef582",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -96,7 +58,7 @@
             }
           },
           {
-            "id": "d8367969494da086",
+            "id": "f2b5edb2a64a0bbe",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -110,19 +72,20 @@
     "width": 300
   },
   "right": {
-    "id": "ec32848b58d3dfc0",
+    "id": "1f9a610b5765b656",
     "type": "split",
     "children": [
       {
-        "id": "4eb6a886cc96735f",
+        "id": "34437909102ef72c",
         "type": "tabs",
         "children": [
           {
-            "id": "42df5f9a13373a0b",
+            "id": "88f284a8715d1988",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
+                "file": "mermaid.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,18 +97,19 @@
             }
           },
           {
-            "id": "5dfdae411458e610",
+            "id": "0b1fb5e783538b39",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "mermaid.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "abd8dfa5339f66da",
+            "id": "463dc38d31935036",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -156,18 +120,21 @@
             }
           },
           {
-            "id": "45a5c19f4c96e3ee",
+            "id": "7af2a5e17885bccb",
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "mermaid.md"
+              }
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -179,33 +146,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d680ad209975f218",
+  "active": "4df37bd4a40cf09d",
   "lastOpenFiles": [
-    "regression.md",
-    "classification.md",
-    "alphafold.md",
-    "andrew-ng.md",
-    "alphastar.md",
-    "alphazero.md",
     "concepts.md",
-    "_machine-learning.md",
-    "people.md",
-    "machine-learning.md",
-    "supervised.md",
-    "clustering.md",
-    "dimensionality-reduction.md",
-    "neural-networks.md",
-    "convolutional.md",
-    "recurrent.md",
-    "deep.md",
-    "unsupervised.md",
-    "anomaly-detection.md",
-    "outlier.md",
-    "novelty.md",
-    "deviation.md",
-    "reinforcement.md",
-    "semi-supervised.md",
-    "unlabeled.md",
-    "active.md"
+    "equation.md",
+    "isaac_newton.md",
+    "mermaid.md"
   ]
 }

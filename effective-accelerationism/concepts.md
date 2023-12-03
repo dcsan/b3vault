@@ -1,5 +1,0 @@
-## concepts
-
-
-
-- [[progress]]

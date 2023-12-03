@@ -1,0 +1,544 @@
+name: effective_accelerationism
+elements:
+  - data:
+      source: related
+      target: technological_progress
+      type: link
+  - data:
+      source: _ecological_restoration
+      target: wetland_rehabilitation
+      type: link
+  - data:
+      source: _ecological_restoration
+      target: reforestation
+      type: link
+  - data:
+      source: radical_change
+      target: _ecological_restoration
+      type: link
+  - data:
+      source: _technological_advancement
+      target: artificial_intelligence
+      type: link
+  - data:
+      source: radical_change
+      target: _technological_advancement
+      type: link
+  - data:
+      source: related
+      target: radical_change
+      type: link
+  - data:
+      source: singularitarianism
+      target: technological_singularity
+      type: link
+  - data:
+      source: transhumanism
+      target: singularitarianism
+      type: link
+  - data:
+      source: techno_optimism
+      target: futurism
+      type: link
+  - data:
+      source: transhumanism
+      target: techno_optimism
+      type: link
+  - data:
+      source: events
+      target: transhumanism
+      type: link
+  - data:
+      source: utopianism
+      target: postcapitalism
+      type: link
+  - data:
+      source: utopianism
+      target: techno_utopianism
+      type: link
+  - data:
+      source: mark_fisher
+      target: utopianism
+      type: link
+  - data:
+      source: cyberneticism
+      target: _networked
+      type: link
+  - data:
+      source: cyberneticism
+      target: _decentralization
+      type: link
+  - data:
+      source: mark_fisher
+      target: cyberneticism
+      type: link
+  - data:
+      source: people
+      target: mark_fisher
+      type: link
+  - data:
+      source: futurist
+      target: ray_kurzweil
+      type: link
+  - data:
+      source: nick_land
+      target: futurist
+      type: link
+  - data:
+      source: cybernetic
+      target: control
+      type: link
+  - data:
+      source: cybernetic
+      target: feedback
+      type: link
+  - data:
+      source: nick_land
+      target: cybernetic
+      type: link
+  - data:
+      source: people
+      target: nick_land
+      type: link
+  - data:
+      source: concepts
+      target: technological_advancement
+      type: link
+  - data:
+      source: _scientific_breakthroughs
+      target: biotechnology
+      type: link
+  - data:
+      source: _scientific_breakthroughs
+      target: quantum_computing
+      type: link
+  - data:
+      source: progress
+      target: _scientific_breakthroughs
+      type: link
+  - data:
+      source: _technological_advancements
+      target: ai
+      type: link
+  - data:
+      source: _technological_advancements
+      target: automation
+      type: link
+  - data:
+      source: progress
+      target: _technological_advancements
+      type: link
+  - data:
+      source: concepts
+      target: progress
+      type: link
+  - data:
+      id: technological_progress
+      type: node
+      text: >-
+        Technological progress refers to the advancements and improvements in
+        technology over time, leading to increased efficiency, productivity, and
+        innovation. It is a continuous process and plays a crucial role in
+        shaping the modern world.
+  - data:
+      id: wetland_rehabilitation
+      type: node
+      text: >-
+        Wetland rehabilitation is the process of restoring degraded or damaged
+        wetland ecosystems to their natural, functioning state. This can involve
+        actions such as re-establishing native plant species, improving water
+        quality, and restoring hydrology.
+  - data:
+      id: reforestation
+      type: node
+      text: >-
+        Reforestation is the process of replanting trees in an area that was
+        previously deforested or degraded. It aims to restore the ecological
+        functions and biodiversity of the area, as well as provide benefits such
+        as carbon sequestration, soil stabilization, and habitat for wildlife.
+  - data:
+      id: ecological_restoration
+      type: node
+      text: >-
+        Ecological restoration is the process of repairing and rebuilding
+        damaged ecosystems, often through human intervention, with the goal of
+        returning them to a more functional and sustainable state. It is seen as
+        a crucial step towards achieving a more sustainable and resilient
+        relationship between humans and the natural environment.
+  - data:
+      id: ecological_restoration
+      type: node
+      text: >-
+        Ecological restoration is the process of repairing and restoring damaged
+        or degraded ecosystems to a more natural and healthy state, often
+        through human intervention and management techniques. It is often seen
+        as a proactive approach to preserving biodiversity and addressing the
+        negative impacts of human activities on the environment.
+  - data:
+      id: artificial_intelligence
+      type: node
+      text: >-
+        Artificial intelligence is a field of computer science that focuses on
+        creating intelligent machines that can perform tasks typically requiring
+        human intelligence, such as learning, problem-solving, and
+        decision-making. It involves the development of algorithms and systems
+        that can process and analyze large amounts of data to make autonomous
+        decisions.
+  - data:
+      id: technological_advancement
+      type: node
+      text: >-
+        Technological advancement is the rapid development and implementation of
+        new technologies that aim to improve efficiency, increase productivity,
+        and enhance the overall human experience. It is a driving force behind
+        effective accelerationism, as it enables the acceleration of societal
+        progress and the achievement of desired outcomes.
+  - data:
+      id: technological_advancement
+      type: node
+      text: >-
+        Technological advancement refers to the rapid development and
+        implementation of new and innovative technologies that significantly
+        alter the way individuals and societies function, often leading to
+        radical changes in various industries and aspects of daily life.
+  - data:
+      id: radical_change
+      type: node
+      text: >-
+        Radical change refers to a significant and fundamental shift in beliefs,
+        attitudes, or systems, often resulting in a complete transformation of
+        the current state. It is often seen as disruptive, challenging the
+        status quo and pushing for new ways of thinking and operating.
+  - data:
+      id: related
+      type: node
+      text: >-
+        1. Technological Advancement: Effective accelerationism proposes the use
+        of technology to accelerate societal change and progress towards a
+        desired outcome.
+
+
+        2. Disruption: The concept of disruption is closely linked to effective
+        accelerationism, as it involves intentionally disrupting existing
+        systems and structures in order to bring about radical change.
+
+
+        3. Futurism: Effective accelerationism is rooted in a futurist mindset,
+        prioritizing a vision of the future over the present and advocating for
+        actions that will expedite the arrival of that future.
+  - data:
+      id: technological_singularity
+      type: node
+      text: >-
+        Technological singularity refers to a hypothetical event in which
+        artificial intelligence and other emerging technologies will lead to
+        rapid and exponential growth, surpassing human intelligence and
+        radically transforming society.
+  - data:
+      id: singularitarianism
+      type: node
+      text: >-
+        Singularitarianism is a belief within transhumanism that technological
+        advancements, specifically the creation of superintelligent machines,
+        will eventually lead to a singularity, or rapid and irreversible change
+        in human existence. This change is seen as both inevitable and
+        potentially beneficial for humanity.
+  - data:
+      id: futurism
+      type: node
+      text: >-
+        Futurism is a movement or ideology that focuses on the belief in the
+        progress and advancement of technology and its potential to solve
+        societal issues and improve the human condition. It often involves a
+        sense of optimism and excitement for the future possibilities that
+        technology can bring.
+  - data:
+      id: techno_optimism
+      type: node
+      text: >-
+        Techno-optimism is the belief that advancements in technology will
+        ultimately lead to a better, more positive future for humanity,
+        including potential enhancements to human capabilities and potential
+        solutions to societal issues.
+  - data:
+      id: transhumanism
+      type: node
+      text: >-
+        Transhumanism is a philosophical and social movement that seeks to use
+        technology and science to enhance human abilities and extend human life
+        beyond its natural limitations. It encompasses a range of beliefs and
+        practices, such as genetic engineering, artificial intelligence, and
+        mind uploading.
+  - data:
+      id: events
+      type: node
+      text: >-
+        1. "Accelerate Manifesto" by Nick Land, published in 1990, which laid
+        out the principles of accelerationism and its goal of pushing technology
+        and capitalism to their limits in order to accelerate social and
+        economic progress.
+
+
+        2. "#Accelerate: The Accelerationist Reader" edited by Robin Mackay and
+        Armen Avanessian, published in 2014, which brought together key texts
+        and essays on accelerationism, sparking renewed interest and debate in
+        the topic.
+
+
+        3. "Xenofeminism: A Politics for Alienation" by Laboria Cuboniks,
+        published in 2015, which proposed a feminist and anti-capitalist form of
+        accelerationism that aims to use technology and automation to liberate
+        individuals from gender and economic constraints.
+  - data:
+      id: postcapitalism
+      type: node
+      text: >-
+        Postcapitalism refers to a hypothetical societal system beyond
+        capitalism, characterized by a shift towards alternative economic models
+        and the elimination of traditional capitalist structures.
+  - data:
+      id: techno_utopianism
+      type: node
+      text: >-
+        Techno-utopianism is a belief that technology can solve all societal
+        problems and create a perfect future, often disregarding potential
+        negative consequences and inequalities.
+  - data:
+      id: utopianism
+      type: node
+      text: >-
+        Utopianism is a belief in the possibility of creating a perfect society,
+        often through radical social and political change. Mark Fisher critiques
+        utopianism for being unrealistic and unattainable, instead advocating
+        for a more pragmatic approach to addressing social and economic issues.
+  - data:
+      id: networked
+      type: node
+      text: >-
+        Networked refers to a system or group of interconnected elements or
+        nodes that work together to exchange information, share resources, and
+        achieve a common goal through communication and feedback loops.
+  - data:
+      id: decentralization
+      type: node
+      text: >-
+        Decentralization refers to the distribution of control and
+        decision-making power among multiple nodes or agents, rather than being
+        centralized in a single entity. It is often seen as a way to increase
+        resilience and adaptability in complex systems.
+  - data:
+      id: cyberneticism
+      type: node
+      text: >-
+        Cyberneticism is a philosophical theory that examines the relationship
+        between technology, systems, and human interactions, focusing on the
+        feedback loops and control mechanisms that govern complex systems. It
+        has influenced critical theories of technology and capitalism, as seen
+        in the works of mark_fisher.
+  - data:
+      id: mark_fisher
+      type: node
+      text: >-
+        Mark Fisher was a British writer, cultural theorist, and music critic
+        known for his influential works on capitalism, popular culture, and
+        mental health. He was considered a leading voice in contemporary
+        cultural criticism before his untimely death in 2017.
+  - data:
+      id: ray_kurzweil
+      type: node
+      text: >-
+        Ray Kurzweil is a futurist, inventor, and author who is known for his
+        predictions and theories on the future of technology and humanity,
+        including the concept of the "singularity" and the potential for human
+        immortality through advanced technology.
+  - data:
+      id: futurist
+      type: node
+      text: >-
+        Futurists are individuals who seek to predict and understand the future
+        through the lens of technology, science, and cultural trends, often with
+        a focus on accelerating progress and transformation.
+  - data:
+      id: control
+      type: node
+      text: >-
+        Control refers to the ability to manipulate and regulate a system or
+        process in order to achieve a desired outcome or maintain stability. It
+        involves monitoring and adjusting inputs, outputs, and feedback loops to
+        maintain a desired state.
+  - data:
+      id: feedback
+      type: node
+      text: >-
+        Feedback refers to the process of obtaining information about the
+        current state of a system and using it to adjust and improve the
+        system's performance. It is a key concept in cybernetics as it allows
+        for self-regulation and adaptation in complex systems.
+  - data:
+      id: cybernetic
+      type: node
+      text: >-
+        Cybernetic refers to the intersection of technology, biology, and the
+        human mind, often with a focus on the integration of artificial
+        intelligence and human enhancement. It encompasses the study and use of
+        systems and networks to enhance and control human functions and
+        behaviors.
+  - data:
+      id: nick_land
+      type: node
+      text: >-
+        Nick Land is a British philosopher and writer known for his
+        controversial ideas on accelerationism and the intersection of
+        technology and philosophy.
+  - data:
+      id: people
+      type: node
+      text: >-
+        1. Nick Land: A British philosopher and writer who is considered a key
+        figure in the development of accelerationist thought.
+
+        2. Mark Fisher: A British cultural theorist and writer who was heavily
+        influenced by accelerationism and wrote extensively on the subject.
+
+        3. Benjamin Noys: A British academic and writer who has critiqued and
+        engaged with accelerationism in his work.
+  - data:
+      id: technological_advancement
+      type: node
+      text: >-
+        Technological advancement refers to the continuous improvement and
+        development of new technologies, tools, and systems that contribute to
+        the progress of society and human civilization. It encompasses
+        innovations in various fields such as science, engineering, and
+        information technology.
+  - data:
+      id: biotechnology
+      type: node
+      text: >-
+        Biotechnology is a field of science that involves the use of living
+        organisms, cells, and biological processes to develop new products and
+        technologies for various industries such as medicine, agriculture, and
+        environmental preservation. It has led to significant breakthroughs such
+        as genetically modified crops, personalized medicine, and biodegradable
+        materials.
+  - data:
+      id: quantum_computing
+      type: node
+      text: >-
+        Quantum computing is a field of computing that utilizes quantum
+        mechanical phenomena, such as superposition and entanglement, to perform
+        operations on data. It has the potential to greatly increase computing
+        power and potentially solve complex problems that are currently
+        intractable for classical computers.
+  - data:
+      id: scientific_breakthroughs
+      type: node
+      text: >-
+        Scientific breakthroughs refer to significant discoveries or innovations
+        in the field of science that have the potential to greatly advance our
+        understanding of the world and improve our lives. They are often seen as
+        key drivers of progress and are highly valued in the philosophy of
+        effective accelerationism.
+  - data:
+      id: scientific_breakthroughs
+      type: node
+      text: >-
+        Scientific breakthroughs refer to significant advances in scientific
+        knowledge or technology that have the potential to greatly impact and
+        improve society in various fields such as medicine, energy, and
+        communication. These breakthroughs often mark a major step forward in
+        our understanding of the world and can lead to significant progress and
+        innovation.
+  - data:
+      id: ai
+      type: node
+      text: >-
+        AI, or artificial intelligence, is the simulation of human intelligence
+        processes by machines, especially computer systems. It involves the
+        creation of intelligent machines that can think, learn, and make
+        decisions, leading to a wide range of applications such as self-driving
+        cars, virtual assistants, and medical diagnosis.
+  - data:
+      id: automation
+      type: node
+      text: >-
+        Automation refers to the use of technology and machines to perform tasks
+        or processes that were previously done manually by humans. It aims to
+        increase efficiency and productivity while reducing human involvement
+        and errors.
+  - data:
+      id: technological_advancements
+      type: node
+      text: >-
+        Technological advancements refer to the continual development and
+        improvement of tools, techniques, and processes that enable societies to
+        produce goods and services more efficiently and effectively. These
+        advancements often have a significant impact on economic growth and
+        societal progress.
+  - data:
+      id: technological_advancements
+      type: node
+      text: >-
+        Technological advancements refer to the continuous improvements and
+        innovations in various fields of technology, such as information
+        technology, medicine, transportation, and communication, which have
+        greatly contributed to the progress and development of society.
+  - data:
+      id: progress
+      type: node
+      text: >-
+        Progress refers to the advancement or improvement towards a specific
+        goal or objective. It can be measured by the level of achievement or
+        development compared to a previous state or benchmark.
+  - data:
+      id: concepts
+      type: node
+      text: >-
+        1. Radical technological advancement and innovation as a means of
+        accelerating societal progress and transformation.
+
+
+        2. Embracing and actively engaging with the consequences of accelerating
+        changes, rather than resisting or attempting to slow them down.
+
+
+        3. A rejection of traditional leftist ideologies and a focus on
+        harnessing capitalist structures for the purpose of creating radical
+        change.
+  - data:
+      id: effective_accelerationism
+      color: '#FF0088'
+      type: node
+      meta:
+        root: true
+      text: >-
+        Effective accelerationism is a political and philosophical movement that
+        advocates for the acceleration of current societal and economic systems
+        in order to bring about radical change and progress. It is rooted in the
+        idea that the current systems of capitalism and technology are
+        inherently unstable and self-destructive, and that by pushing them to
+        their limits, they will inevitably collapse and make way for a new and
+        more equitable society.
+
+
+        One of the key ideas of effective accelerationism is the concept of
+        "left accelerationism," which argues that the best way to bring about
+        radical change is to embrace and accelerate the destructive tendencies
+        of capitalism and technology, rather than trying to resist or slow them
+        down. This is in contrast to traditional leftist ideologies that seek to
+        overthrow or reform these systems. By embracing the inherent instability
+        and contradictions of capitalism and technology, left accelerationists
+        believe that a new and more just society can emerge.
+
+
+        Another important aspect of effective accelerationism is the emphasis on
+        technology and its potential to accelerate social and economic progress.
+        This includes the use of automation, artificial intelligence, and other
+        emerging technologies to disrupt and transform traditional modes of
+        production and labor. By accelerating the development and implementation
+        of these technologies, effective accelerationists believe that we can
+        create a post-work society where human labor is no longer necessary for
+        survival.
+
+
+        However, effective accelerationism

@@ -1,0 +1,171 @@
+name: ai_accelerationism
+elements:
+  - data:
+      source: singularity
+      target: technological_singularity
+      type: link
+  - data:
+      source: events
+      target: singularity
+      type: link
+  - data:
+      source: nick_land
+      target: cybernetic
+      type: link
+  - data:
+      source: people
+      target: nick_land
+      type: link
+  - data:
+      source: acceleration
+      target: automation
+      type: link
+  - data:
+      source: concepts
+      target: acceleration
+      type: link
+  - data:
+      id: related
+      type: node
+      text: >-
+        1. Technological Progress - the belief that advancements in technology,
+        particularly artificial intelligence, will lead to a more efficient and
+        prosperous society.
+
+
+        2. Post-Work Society - the idea that automation and AI will make human
+        labor obsolete, allowing for a society where work is no longer the
+        primary source of value and meaning.
+
+
+        3. Radical Optimization - the pursuit of optimizing all aspects of
+        society through the use of AI, with the goal of achieving a utopian
+        vision of the future.
+  - data:
+      id: technological_singularity
+      type: node
+      text: >-
+        Technological singularity refers to a hypothetical future event where
+        artificial intelligence (AI) surpasses human intelligence and leads to
+        unprecedented, unpredictable changes in society and technology. This
+        concept raises concerns about the potential dangers and benefits of
+        rapidly advancing technology.
+  - data:
+      id: singularity
+      type: node
+      text: >-
+        Singularity refers to a point in time when technological advancements
+        reach a level of intelligence that surpasses human intelligence,
+        potentially leading to rapid and unpredictable changes in society.
+  - data:
+      id: events
+      type: node
+      text: >-
+        1. "The Singularity" - a hypothetical event in which AI surpasses human
+        intelligence and leads to rapid technological progress and societal
+        changes.
+
+
+        2. "The Technological Singularity" - a concept in AI accelerationism
+        that describes the exponential growth of technology and its potential to
+        transform society and human existence.
+
+
+        3. "The Great Filter" - a theory that suggests the development of
+        advanced AI could be a potential obstacle that prevents civilizations
+        from advancing beyond a certain point.
+  - data:
+      id: cybernetic
+      type: node
+      text: >-
+        Cybernetic refers to the integration of technology and biology, blurring
+        the lines between man and machine. It is often associated with
+        transhumanism and the idea of enhancing human capabilities through
+        technological advancements.
+  - data:
+      id: nick_land
+      type: node
+      text: >-
+        Nick Land is a controversial British philosopher and writer known for
+        his influential works on accelerationism, cybernetics, and the
+        intersection of technology and philosophy.
+  - data:
+      id: people
+      type: node
+      text: >-
+        1. Nick Land - a British philosopher and writer who is considered one of
+        the founders of accelerationism.
+
+        2. Alex Williams - a sociologist and writer who has written extensively
+        on accelerationism and its relation to technology and capitalism.
+
+        3. Mark Fisher - a cultural theorist and writer who has discussed the
+        concept of accelerationism in his work on post-capitalist futures.
+  - data:
+      id: automation
+      type: node
+      text: >-
+        Automation refers to the use of technology and machines to perform tasks
+        that were previously done by humans. This allows for faster and more
+        efficient execution, leading to increased productivity and acceleration
+        of processes.
+  - data:
+      id: acceleration
+      type: node
+      text: >-
+        Acceleration is the rate at which an object's velocity changes over
+        time. It can be described as a measure of how quickly an object is
+        speeding up, slowing down, or changing direction.
+  - data:
+      id: concepts
+      type: node
+      text: >-
+        1. Technological Singularity: The belief that artificial intelligence
+        will eventually surpass human intelligence and lead to a rapid
+        acceleration of technological progress.
+
+
+        2. Automation and Labor: The idea that as AI and automation continue to
+        advance, they will replace human labor, leading to a post-capitalist
+        society.
+
+
+        3. Accelerationist Politics: The political theory that seeks to utilize
+        technology and automation to accelerate societal change and create a
+        more efficient and equitable society.
+  - data:
+      id: ai_accelerationism
+      color: '#FF0088'
+      type: node
+      meta:
+        root: true
+      text: >-
+        AI accelerationism is a philosophical and political movement that
+        combines the ideologies of accelerationism and artificial intelligence
+        (AI). It posits that the advancement and implementation of AI technology
+        is vital to the acceleration of societal progress and the transcendence
+        of human limitations. This movement advocates for actively accelerating
+        the development of AI, rather than slowing it down or relying on
+        traditional human-centered approaches.
+
+
+        At its core, AI accelerationism is rooted in the belief that humanity is
+        facing a crisis of stagnation and that traditional methods of progress,
+        such as democracy and capitalism, are no longer effective. Instead,
+        proponents of AI accelerationism argue that by embracing and pushing the
+        boundaries of AI technology, we can achieve a post-human future where
+        humanity transcends its biological limitations and creates a more
+        efficient and advanced society.
+
+
+        One of the key principles of AI accelerationism is the rejection of
+        human exceptionalism. This means that AI is seen as not just a tool for
+        humans, but as a potential equal or even superior intelligence. This
+        challenges the traditional notion that humans are the pinnacle of
+        evolution and instead embraces the idea that AI can surpass us and lead
+        us towards new forms of progress and innovation.
+
+
+        Another important aspect of AI accelerationism is the focus on
+        automation and the elimination of labor. Proponents argue that with the
+        rise of AI

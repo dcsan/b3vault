@@ -1,0 +1,160 @@
+name: food
+elements:
+  - data:
+      source: harvest
+      target: crop
+      type: link
+  - data:
+      source: events
+      target: harvest
+      type: link
+  - data:
+      source: chef
+      target: gordon-ramsay
+      type: link
+  - data:
+      source: people
+      target: chef
+      type: link
+  - data:
+      source: nutrition
+      target: vitamins
+      type: link
+  - data:
+      source: concepts
+      target: nutrition
+      type: link
+  - data:
+      id: related
+      type: node
+      text: >-
+        1. Nutrition: The science of food and how it affects the body, including
+        the essential nutrients needed for proper functioning. 
+
+        2. Sustainability: The concept of producing and consuming food in a way
+        that preserves the environment and supports long-term food production
+        for future generations.
+
+        3. Cultural Significance: The role food plays in shaping cultural
+        identity, customs, and traditions, as well as its influence on social
+        interactions and celebrations.
+  - data:
+      id: crop
+      type: node
+      text: >-
+        A crop is a type of plant that is grown and harvested for food, fuel, or
+        other commercial purposes. It typically refers to large-scale
+        agricultural production of a specific type of plant, such as grains,
+        fruits, vegetables, or herbs.
+  - data:
+      id: harvest
+      type: node
+      text: >-
+        Harvest refers to the gathering of crops or fruits that have reached
+        maturity and are ready to be harvested for consumption or sale. It is
+        often a celebratory event that marks the end of a growing season and the
+        beginning of a new cycle.
+  - data:
+      id: events
+      type: node
+      text: >-
+        1. The Great Potato Famine (1845-1852) in Ireland, which resulted in the
+        death of over one million people and the emigration of another million
+        due to the failure of the potato crop.
+
+        2. The Green Revolution (1960s-1970s), a series of initiatives aimed at
+        increasing agricultural productivity and reducing hunger in developing
+        countries through the use of modern farming techniques and technologies.
+
+        3. The Slow Food Movement, founded in 1986 in Italy, which advocates for
+        the preservation of traditional and regional foods, sustainable
+        agriculture, and promoting local food systems.
+  - data:
+      id: gordon-ramsay
+      type: node
+      text: >-
+        Gordon Ramsay is a well-known British chef and television personality
+        known for his fiery personality and high standards in the kitchen. He
+        has multiple successful restaurants and is a popular figure in the
+        culinary world.
+  - data:
+      id: chef
+      type: node
+      text: >-
+        A chef is a professional cook who is trained and skilled in preparing a
+        variety of dishes and managing a kitchen. They are responsible for
+        creating and executing menus, as well as overseeing the operations of a
+        restaurant or food establishment.
+  - data:
+      id: people
+      type: node
+      text: >-
+        1. Julia Child - a renowned chef, author, and television personality who
+        introduced French cuisine to the American public.
+
+        2. Jamie Oliver - a celebrity chef and television personality known for
+        his activism and efforts to promote healthy eating and combat childhood
+        obesity.
+
+        3. Emeril Lagasse - a celebrity chef, restaurateur, and television
+        personality known for his popular catchphrases and his influence on New
+        Orleans-style cuisine.
+  - data:
+      id: vitamins
+      type: node
+      text: >-
+        Vitamins are essential organic compounds that the body needs in small
+        amounts to support various bodily processes, such as metabolism, growth,
+        and immunity. They can be obtained through a balanced diet and are
+        important for overall health and well-being.
+  - data:
+      id: nutrition
+      type: node
+      text: >-
+        Nutrition refers to the process of obtaining and using food for growth,
+        maintenance, and repair of the body. It involves consuming a balanced
+        and varied diet that provides essential nutrients for optimal health and
+        wellbeing.
+  - data:
+      id: concepts
+      type: node
+      text: >-
+        1. Nutrition - the study of nutrients and their role in maintaining
+        health and preventing disease.
+
+        2. Culture - the beliefs, customs, and traditions surrounding food and
+        its consumption.
+
+        3. Sustainability - the practice of producing and consuming food in a
+        way that minimizes negative impacts on the environment and promotes
+        long-term availability of resources.
+  - data:
+      id: food
+      color: '#FF0088'
+      type: node
+      meta:
+        root: true
+      text: >-
+        Food is any substance that is consumed to provide nutritional support
+        for the body. It is essential for the growth, development, and
+        maintenance of our body's functions. Food not only provides us with
+        energy, but it also supplies us with the necessary nutrients, vitamins,
+        and minerals that our body needs to function properly. It is a basic
+        human need and is essential for our survival.
+
+
+        The types of food that we consume can be broadly classified into five
+        main groups: grains, fruits, vegetables, proteins, and dairy. Grains
+        include foods such as rice, wheat, oats, and barley, which are rich in
+        carbohydrates and provide us with energy. Fruits and vegetables are
+        packed with essential vitamins, minerals, and fiber that are vital for
+        maintaining a healthy body. Proteins, found in foods such as meat, fish,
+        eggs, and legumes, are important for building and repairing tissues in
+        our body. Dairy products, like milk, cheese, and yogurt, are a good
+        source of calcium, which is necessary for strong bones and teeth.
+
+
+        Food not only nourishes our body, but it also plays a significant role
+        in our culture and traditions. Different cultures around the world have
+        their unique cuisines and cooking methods, which reflect their history,
+        geography, and climate. For example,

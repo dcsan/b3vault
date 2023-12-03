@@ -1,61 +1,23 @@
 {
   "main": {
-    "id": "61de92f9ebd3953b",
+    "id": "bdccda37c96c4da6",
     "type": "split",
     "children": [
       {
-        "id": "aaf8e4d5f87f09f5",
+        "id": "ab3d0a9bfcc310d7",
         "type": "tabs",
         "children": [
           {
-            "id": "d680ad209975f218",
+            "id": "2c45ad5ed9eb0c86",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
-            },
-            "group": "24a3eab01cfa1ec9"
-          }
-        ]
-      },
-      {
-        "id": "843bea460215e930",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "ba1d8d0d840675c9",
-            "type": "leaf",
-            "state": {
-              "type": "localgraph",
+              "type": "markdown",
               "state": {
-                "options": {
-                  "collapse-filter": true,
-                  "search": "",
-                  "localJumps": 1,
-                  "localBacklinks": true,
-                  "localForelinks": true,
-                  "localInterlinks": false,
-                  "showTags": false,
-                  "showAttachments": false,
-                  "hideUnresolved": false,
-                  "collapse-color-groups": true,
-                  "colorGroups": [],
-                  "collapse-display": true,
-                  "showArrow": false,
-                  "textFadeMultiplier": 0,
-                  "nodeSizeMultiplier": 1,
-                  "lineSizeMultiplier": 1,
-                  "collapse-forces": true,
-                  "centerStrength": 0.518713248970312,
-                  "repelStrength": 10,
-                  "linkStrength": 1,
-                  "linkDistance": 250,
-                  "scale": 1.5000000000000004,
-                  "close": true
-                }
+                "file": "technological_progress.md",
+                "mode": "source",
+                "source": false
               }
-            },
-            "group": "24a3eab01cfa1ec9"
+            }
           }
         ]
       }
@@ -63,15 +25,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "b8f100b7b18d2fa4",
+    "id": "6d7fab7e71fe8fa5",
     "type": "split",
     "children": [
       {
-        "id": "fefb135d5e8166fb",
+        "id": "6b50a4237ff28d15",
         "type": "tabs",
         "children": [
           {
-            "id": "e0a2563d9a02b59a",
+            "id": "99386c1197416c55",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -81,7 +43,7 @@
             }
           },
           {
-            "id": "55516f5f96b65ae4",
+            "id": "17041d092cdeca86",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -96,7 +58,7 @@
             }
           },
           {
-            "id": "d8367969494da086",
+            "id": "a7f322235be081e5",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -110,19 +72,20 @@
     "width": 300
   },
   "right": {
-    "id": "ec32848b58d3dfc0",
+    "id": "198a7c5afa85a4fd",
     "type": "split",
     "children": [
       {
-        "id": "4eb6a886cc96735f",
+        "id": "af1673cf45ba5b24",
         "type": "tabs",
         "children": [
           {
-            "id": "42df5f9a13373a0b",
+            "id": "1f15bac254dd4105",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
+                "file": "technological_progress.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,18 +97,19 @@
             }
           },
           {
-            "id": "5dfdae411458e610",
+            "id": "f2afe94ab5c04de0",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "technological_progress.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "abd8dfa5339f66da",
+            "id": "d43b980f361045a8",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -156,11 +120,13 @@
             }
           },
           {
-            "id": "45a5c19f4c96e3ee",
+            "id": "d309cbbbbcd38b63",
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "technological_progress.md"
+              }
             }
           }
         ]
@@ -179,33 +145,33 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d680ad209975f218",
+  "active": "2c45ad5ed9eb0c86",
   "lastOpenFiles": [
-    "regression.md",
-    "classification.md",
-    "alphafold.md",
-    "andrew-ng.md",
-    "alphastar.md",
-    "alphazero.md",
+    "technological_progress.md",
+    "futurist.md",
+    "mindmap.md",
+    "ray_kurzweil.md",
     "concepts.md",
-    "_machine-learning.md",
+    "technological_advancement.md",
+    "flowchart.md",
+    "effective_accelerationism.md",
+    "feedback.md",
+    "start.md",
+    "cybernetic.md",
+    "progress.md",
+    "technological_advancements.md",
+    "automation.md",
+    "ai.md",
+    "scientific_breakthroughs.md",
+    "quantum_computing.md",
+    "biotechnology.md",
     "people.md",
-    "machine-learning.md",
-    "supervised.md",
-    "clustering.md",
-    "dimensionality-reduction.md",
-    "neural-networks.md",
-    "convolutional.md",
-    "recurrent.md",
-    "deep.md",
-    "unsupervised.md",
-    "anomaly-detection.md",
-    "outlier.md",
-    "novelty.md",
-    "deviation.md",
-    "reinforcement.md",
-    "semi-supervised.md",
-    "unlabeled.md",
-    "active.md"
+    "nick_land.md",
+    "control.md",
+    "mark_fisher.md",
+    "cyberneticism.md",
+    "decentralization.md",
+    "networked.md",
+    "utopianism.md"
   ]
 }
