@@ -1,0 +1,153 @@
+{
+  "main": {
+    "id": "f680013ac1e267cd",
+    "type": "split",
+    "children": [
+      {
+        "id": "463239891456f86d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c23732863d4bd741",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8882c64094beb531",
+    "type": "split",
+    "children": [
+      {
+        "id": "9526daee3650967c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2cbd5ed6b99aa5ab",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ea5e118fff3200ef",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "0c04fd9a2d0ba809",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "f1aac5c322c9bea5",
+    "type": "split",
+    "children": [
+      {
+        "id": "d1bac7cfa8941815",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "50887e41c8b70417",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "334e7412a1cc0499",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a4fd3ca099fdef10",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "965608015fde9aaf",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "c23732863d4bd741",
+  "lastOpenFiles": [
+    "ingredients.md",
+    "flavor.md",
+    "_cooking.md",
+    "masterchef.md",
+    "julia-child.md",
+    "flour.md",
+    "events.md",
+    "cooking.md",
+    "concepts.md"
+  ]
+}

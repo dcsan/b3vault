@@ -1,0 +1,113 @@
+name: cooking
+elements:
+  - data:
+      source: ingredients
+      target: flour
+      type: link
+  - data:
+      source: related
+      target: ingredients
+      type: link
+  - data:
+      source: culinary-olympics
+      target: iron-chef
+      type: link
+  - data:
+      source: events
+      target: culinary-olympics
+      type: link
+  - data:
+      source: julia-child
+      target: masterchef
+      type: link
+  - data:
+      source: people
+      target: julia-child
+      type: link
+  - data:
+      source: flavor
+      target: savory
+      type: link
+  - data:
+      source: concepts
+      target: flavor
+      type: link
+  - data:
+      id: flour
+      type: node
+      text: ''
+  - data:
+      id: ingredients
+      type: node
+      text: ''
+  - data:
+      id: related
+      type: node
+      text: ''
+  - data:
+      id: iron-chef
+      type: node
+      text: ''
+  - data:
+      id: culinary-olympics
+      type: node
+      text: ''
+  - data:
+      id: events
+      type: node
+      text: ''
+  - data:
+      id: masterchef
+      type: node
+      text: ''
+  - data:
+      id: julia-child
+      type: node
+      text: ''
+  - data:
+      id: people
+      type: node
+      text: ''
+  - data:
+      id: savory
+      type: node
+      text: ''
+  - data:
+      id: flavor
+      type: node
+      text: ''
+  - data:
+      id: concepts
+      type: node
+      text: ''
+  - data:
+      id: cooking
+      color: '#FF0088'
+      type: node
+      meta:
+        root: true
+      text: >-
+        Cooking is the process of preparing food using heat to transform raw
+        ingredients into edible, flavorful dishes. It is both an art and a
+        science, requiring creativity, skill, and knowledge of ingredients,
+        flavors, and techniques. Cooking has been a fundamental part of human
+        culture for centuries, and it is a necessary life skill that allows us
+        to nourish ourselves and others.
+
+
+        The cooking process begins with selecting and gathering ingredients.
+        This can involve shopping for fresh produce, proteins, and pantry
+        staples, or harvesting ingredients from a garden. Once the ingredients
+        are assembled, the cooking process can begin. The first step is often to
+        prepare the ingredients by washing, peeling, chopping, and measuring
+        them. This is an important step as it ensures that the ingredients are
+        clean and properly proportioned for the recipe.
+
+
+        Next, the ingredients are combined and cooked using various methods such
+        as boiling, frying, grilling, baking, or roasting. These cooking methods
+        can alter the texture, flavor, and appearance of the ingredients, and
+        each one requires a different set of skills and techniques. For example,
+        boiling involves cooking food in a liquid at a high temperature, while
+        frying involves cooking food in hot oil. Baking and roasting are dry
+        heat cooking methods that rely on the oven to cook the food

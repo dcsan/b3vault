@@ -4,45 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "0bb2b20b3bc97195",
-        "type": "split",
+        "id": "c161cb1353f3ac94",
+        "type": "tabs",
         "children": [
           {
-            "id": "c161cb1353f3ac94",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "21aa62228347c774",
-                "type": "leaf",
-                "pinned": true,
-                "state": {
-                  "type": "graph",
-                  "state": {},
-                  "pinned": true
-                }
-              }
-            ]
-          },
-          {
-            "id": "30d1346157f53c4c",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "6306ff1f9f5f7bd1",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "digitalization.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              }
-            ]
+            "id": "21aa62228347c774",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "graph",
+              "state": {},
+              "pinned": true
+            }
           }
-        ],
-        "direction": "horizontal"
+        ]
       }
     ],
     "direction": "vertical"
@@ -108,7 +83,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "digitalization.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +99,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "digitalization.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,9 +120,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "digitalization.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -168,33 +139,33 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6306ff1f9f5f7bd1",
+  "active": "21aa62228347c774",
   "lastOpenFiles": [
-    "_effective-accelerationism.md",
-    "progress.md",
+    "-automation.md",
     "capitalism.md",
-    "technocapitalism.md",
+    "automation.md",
+    "effective-accelerationism.md",
+    "concepts.md",
+    "progress.md",
+    "people.md",
+    "no-one-related-to-effective-accelerationism.md",
+    "events.md",
+    "revolution.md",
+    "related.md",
     "neoliberalism.md",
+    "_effective-accelerationism.md",
+    "speed.md",
+    "velocity.md",
+    "marx.md",
+    "communism.md",
+    "-accelerationism.md",
+    "futurism.md",
+    "technological.md",
+    "digitalization.md",
+    "technocapitalism.md",
     "machine-learning.md",
     "-innovation.md",
     "cryptocurrency.md",
-    "overthrow.md",
-    "effective-accelerationism.md",
-    "concepts.md",
-    "capitalist-evolution.md",
-    "automation.md",
-    "robotics.md",
-    "industrialization.md",
-    "digitalization.md",
-    "augmentation.md",
-    "optimization.md",
-    "globalization.md",
-    "-technological.md",
-    "-economic.md",
-    "-cultural.md",
-    "radical-transformation.md",
-    "technological-advancement.md",
-    "biotechnology.md",
-    "artificial-intelligence.md"
+    "overthrow.md"
   ]
 }

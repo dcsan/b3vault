@@ -1,0 +1,731 @@
+name: machine-learning
+elements:
+  - data:
+      source: association-rules
+      target: frequent-itemsets
+      type: link
+  - data:
+      source: association-rules
+      target: apriori
+      type: link
+  - data:
+      source: unsupervised-learning
+      target: association-rules
+      type: link
+  - data:
+      source: related
+      target: unsupervised-learning
+      type: link
+  - data:
+      source: decision-tree
+      target: adaboost
+      type: link
+  - data:
+      source: supervised-learning
+      target: decision-tree
+      type: link
+  - data:
+      source: related
+      target: supervised-learning
+      type: link
+  - data:
+      source: natural-language-processing
+      target: language-modeling
+      type: link
+  - data:
+      source: natural-language-processing
+      target: named-entity-recognition
+      type: link
+  - data:
+      source: natural-language-processing
+      target: sentiment-analysis
+      type: link
+  - data:
+      source: turing-test
+      target: natural-language-processing
+      type: link
+  - data:
+      source: image-recognition
+      target: 3--scene-classification
+      type: link
+  - data:
+      source: image-recognition
+      target: 2--facial-recognition
+      type: link
+  - data:
+      source: image-recognition
+      target: 1--object-detection
+      type: link
+  - data:
+      source: turing-test
+      target: image-recognition
+      type: link
+  - data:
+      source: events
+      target: turing-test
+      type: link
+  - data:
+      source: decision-trees
+      target: gradient-boosting
+      type: link
+  - data:
+      source: decision-trees
+      target: boosted-trees
+      type: link
+  - data:
+      source: decision-trees
+      target: random-forest
+      type: link
+  - data:
+      source: deep-blue
+      target: decision-trees
+      type: link
+  - data:
+      source: events
+      target: deep-blue
+      type: link
+  - data:
+      source: alphazero
+      target: alphastar
+      type: link
+  - data:
+      source: alphazero
+      target: alphafold
+      type: link
+  - data:
+      source: alphago
+      target: alphazero
+      type: link
+  - data:
+      source: events
+      target: alphago
+      type: link
+  - data:
+      source: sebastian-thrun
+      target: artificial-intelligence
+      type: link
+  - data:
+      source: andrew-ng
+      target: sebastian-thrun
+      type: link
+  - data:
+      source: yann-lecun
+      target: neural
+      type: link
+  - data:
+      source: andrew-ng
+      target: yann-lecun
+      type: link
+  - data:
+      source: geoffrey-hinton
+      target: deep-learning
+      type: link
+  - data:
+      source: geoffrey-hinton
+      target: ai
+      type: link
+  - data:
+      source: andrew-ng
+      target: geoffrey-hinton
+      type: link
+  - data:
+      source: people
+      target: andrew-ng
+      type: link
+  - data:
+      source: semi-supervised
+      target: graph-based
+      type: link
+  - data:
+      source: semi-supervised
+      target: active
+      type: link
+  - data:
+      source: semi-supervised
+      target: unlabeled
+      type: link
+  - data:
+      source: reinforcement
+      target: semi-supervised
+      type: link
+  - data:
+      source: concepts
+      target: reinforcement
+      type: link
+  - data:
+      source: anomaly-detection
+      target: deviation
+      type: link
+  - data:
+      source: anomaly-detection
+      target: novelty
+      type: link
+  - data:
+      source: anomaly-detection
+      target: outlier
+      type: link
+  - data:
+      source: unsupervised
+      target: anomaly-detection
+      type: link
+  - data:
+      source: concepts
+      target: unsupervised
+      type: link
+  - data:
+      source: neural-networks
+      target: deep
+      type: link
+  - data:
+      source: neural-networks
+      target: recurrent
+      type: link
+  - data:
+      source: neural-networks
+      target: convolutional
+      type: link
+  - data:
+      source: supervised
+      target: neural-networks
+      type: link
+  - data:
+      source: classification
+      target: dimensionality-reduction
+      type: link
+  - data:
+      source: classification
+      target: clustering
+      type: link
+  - data:
+      source: classification
+      target: regression
+      type: link
+  - data:
+      source: supervised
+      target: classification
+      type: link
+  - data:
+      source: concepts
+      target: supervised
+      type: link
+  - data:
+      id: frequent-itemsets
+      type: node
+      text: >-
+        Frequent-itemsets are sets of items that appear together frequently in a
+        given dataset, and are used to identify patterns and relationships
+        between items in association-rule mining.
+  - data:
+      id: apriori
+      type: node
+      text: >-
+        Apriori is a popular algorithm used for mining frequent itemsets in
+        association rule mining. It works by first finding all frequent items
+        and then using a level-wise search to generate larger and larger
+        frequent itemsets.
+  - data:
+      id: association-rules
+      type: node
+      text: >-
+        Association rules are used to identify patterns and relationships
+        between different variables in a dataset. They are often used to
+        discover co-occurrences and correlations between items in a
+        transactional database.
+  - data:
+      id: unsupervised-learning
+      type: node
+      text: >-
+        Unsupervised learning is a type of machine learning where the algorithm
+        is trained on unlabeled data without any specific instructions, and it
+        learns patterns and relationships on its own. This allows for the
+        discovery of hidden insights and structures in the data without prior
+        knowledge or guidance.
+  - data:
+      id: adaboost
+      type: node
+      text: >-
+        Adaboost is a meta-algorithm that combines multiple weak classifiers to
+        create a strong classifier, with each weak classifier focused on
+        accurately predicting the previously misclassified data points.
+  - data:
+      id: decision-tree
+      type: node
+      text: >-
+        A decision tree is a predictive model that uses a tree-like structure to
+        make decisions based on a series of if-then conditions, and is commonly
+        used for classification and regression tasks.
+  - data:
+      id: supervised-learning
+      type: node
+      text: >-
+        Supervised learning is a machine learning technique in which a model is
+        trained on a labeled dataset and can make predictions on new unlabeled
+        data by finding patterns and relationships between the input and output
+        variables.
+  - data:
+      id: related
+      type: node
+      text: >-
+        1. Feature engineering: The process of selecting and transforming
+        relevant data features to improve the performance of a machine learning
+        model.
+
+
+        2. Bias-variance tradeoff: The tradeoff between model complexity and
+        generalization error, where an overly complex model may have low bias
+        but high variance, leading to overfitting. 
+
+
+        3. Cross-validation: A technique used to evaluate the performance of a
+        machine learning model by partitioning the available data into training
+        and testing sets, allowing for model validation on unseen data.
+  - data:
+      id: language-modeling
+      type: node
+      text: >-
+        Language modeling is a technique used in natural language processing to
+        predict the probability of a sequence of words occurring in a given
+        language. It is trained on large datasets of text and can be used for
+        tasks such as text generation, speech recognition, and machine
+        translation.
+  - data:
+      id: named-entity-recognition
+      type: node
+      text: >-
+        Named-entity recognition (NER) is a subtask of information extraction
+        that involves identifying and categorizing named entities in a text into
+        predefined categories such as person, organization, location, and time.
+        It is used to extract important information from text and is a key
+        component in many NLP applications such as question answering, document
+        classification, and chatbots.
+  - data:
+      id: sentiment-analysis
+      type: node
+      text: >-
+        Sentiment analysis is a computational technique that uses natural
+        language processing to identify and extract subjective information from
+        text, such as emotions, opinions, and attitudes. It helps analyze and
+        quantify the overall sentiment or tone of a text, which can be useful
+        for understanding public opinion, customer feedback, and social media
+        discussions.
+  - data:
+      id: natural-language-processing
+      type: node
+      text: >-
+        Natural language processing (NLP) is a branch of artificial intelligence
+        that deals with the interaction between computers and human languages.
+        It involves the development of algorithms and techniques that enable
+        computers to understand, interpret, and generate human language, making
+        it a crucial component in creating machines that can pass the Turing
+        Test.
+  - data:
+      id: 3--scene-classification
+      type: node
+      text: >-
+        3-scene-classification refers to the task of categorizing images into
+        three broad scene categories, such as indoor, outdoor, and urban scenes,
+        using computer vision techniques and algorithms.
+  - data:
+      id: 2--facial-recognition
+      type: node
+      text: >-
+        Facial recognition is a biometric technology that uses algorithms to
+        identify and verify an individual's face from a digital image or video.
+        It is used in security systems, social media platforms, and other
+        applications to accurately identify and authenticate users.
+  - data:
+      id: 1--object-detection
+      type: node
+      text: >-
+        Object detection is the process of identifying and localizing specific
+        objects within an image. It involves both classification and
+        localization tasks, where the goal is to not only recognize what objects
+        are present in an image, but also where they are located.
+  - data:
+      id: image-recognition
+      type: node
+      text: >-
+        Image recognition is the ability of a computer system to identify and
+        classify objects, people, and patterns in images. It is often used as a
+        benchmark for artificial intelligence and can be considered a subset of
+        the broader field of computer vision.
+  - data:
+      id: turing-test
+      type: node
+      text: >-
+        The Turing Test is a test of a machine's ability to exhibit intelligent
+        behavior equivalent to, or indistinguishable from, that of a human. It
+        was proposed by Alan Turing in 1950 as a way to determine if a machine
+        is capable of thinking like a human.
+  - data:
+      id: gradient-boosting
+      type: node
+      text: >-
+        Gradient boosting is a machine learning technique that uses an ensemble
+        of weak decision trees to create a strong predictive model through
+        iterative optimization of the errors.
+  - data:
+      id: boosted-trees
+      type: node
+      text: >-
+        Boosted-trees are a type of ensemble learning method where multiple
+        decision trees are trained sequentially, with each subsequent tree
+        attempting to correct the errors of the previous tree, resulting in
+        improved overall performance.
+  - data:
+      id: random-forest
+      type: node
+      text: >-
+        Random forest is an ensemble learning technique where multiple decision
+        trees are trained on different subsets of data and their predictions are
+        combined to make a final prediction, resulting in better performance and
+        reduced overfitting.
+  - data:
+      id: decision-trees
+      type: node
+      text: >-
+        Decision trees are a type of machine learning algorithm that uses a
+        tree-like structure to represent a set of hierarchical decisions and
+        their possible consequences, making them useful for classification and
+        regression tasks in data analysis.
+  - data:
+      id: deep-blue
+      type: node
+      text: >-
+        Deep Blue is a chess-playing computer built by IBM in 1996 that famously
+        defeated world chess champion Garry Kasparov in a six-game match.
+  - data:
+      id: alphastar
+      type: node
+      text: >-
+        AlphaStar is an AI program developed by DeepMind that uses reinforcement
+        learning to master the game of StarCraft II, achieving superhuman
+        performance and surpassing top professional players.
+  - data:
+      id: alphafold
+      type: node
+      text: >-
+        AlphaFold is a deep learning system developed by DeepMind, the same
+        company that created AlphaZero, that can accurately predict the 3D
+        structure of proteins, which is crucial for understanding their
+        functions and designing new drugs.
+  - data:
+      id: alphazero
+      type: node
+      text: >-
+        AlphaZero is a version of the AlphaGo algorithm developed by DeepMind
+        that is capable of learning to play board games such as chess, shogi,
+        and go without any prior knowledge or human input, solely through
+        reinforcement learning.
+  - data:
+      id: alphago
+      type: node
+      text: >-
+        AlphaGo is an artificial intelligence computer program developed by
+        Google DeepMind that is designed to play the board game Go. It gained
+        widespread recognition in 2016 when it defeated world champion Lee Sedol
+        in a highly publicized series of matches.
+  - data:
+      id: events
+      type: node
+      text: >-
+        1. The development of decision tree algorithms in the 1960s, which paved
+        the way for supervised learning techniques and advancements in
+        artificial intelligence.
+
+        2. The introduction of artificial neural networks in the 1980s, which
+        allowed for the training of complex models and led to breakthroughs in
+        speech recognition and image processing.
+
+        3. The emergence of deep learning in the 2010s, which utilized
+        multi-layered neural networks and led to significant improvements in
+        natural language processing, computer vision, and other areas of machine
+        learning.
+  - data:
+      id: artificial-intelligence
+      type: node
+      text: >-
+        Artificial intelligence is a branch of computer science that focuses on
+        creating intelligent machines that can perform tasks that typically
+        require human intelligence, such as visual perception, speech
+        recognition, decision-making, and problem-solving. Sebastian Thrun is a
+        leading figure in the field of artificial intelligence, particularly in
+        the development of self-driving cars and online education using AI
+        technologies.
+  - data:
+      id: sebastian-thrun
+      type: node
+      text: >-
+        Sebastian Thrun is a German-American computer scientist and entrepreneur
+        who co-founded Google X and led the development of Google's self-driving
+        car project. He is also known for co-founding the online learning
+        platform Udacity and for his work in machine learning and artificial
+        intelligence.
+  - data:
+      id: neural
+      type: node
+      text: >-
+        Neural refers to the use of artificial neural networks in machine
+        learning and artificial intelligence, with the goal of creating computer
+        systems that can learn and adapt like the human brain.
+  - data:
+      id: yann-lecun
+      type: node
+      text: >-
+        Yann LeCun is a renowned computer scientist and deep learning pioneer,
+        known for his contributions to Convolutional Neural Networks (CNNs) and
+        his work in computer vision and natural language processing.
+  - data:
+      id: deep-learning
+      type: node
+      text: >-
+        Deep learning is a subset of machine learning that involves training
+        artificial neural networks with multiple layers to learn and make
+        predictions on complex data. It has been a major breakthrough in the
+        field of artificial intelligence, with applications in speech
+        recognition, image and video recognition, natural language processing,
+        and many other domains.
+  - data:
+      id: ai
+      type: node
+      text: >-
+        AI (artificial intelligence) is a field of computer science that focuses
+        on creating intelligent machines that can perform tasks that typically
+        require human intelligence, such as learning, problem-solving, and
+        decision-making. Geoffrey Hinton is a prominent researcher in this
+        field, particularly in the area of deep learning.
+  - data:
+      id: geoffrey-hinton
+      type: node
+      text: >-
+        Geoffrey Hinton is a renowned computer scientist and one of the pioneers
+        in the field of deep learning and artificial intelligence. He is also a
+        former advisor and collaborator of Andrew Ng, and their work together
+        has greatly advanced the field of machine learning.
+  - data:
+      id: andrew-ng
+      type: node
+      text: >-
+        Andrew Ng is a computer scientist and entrepreneur who is well-known for
+        his work in artificial intelligence and machine learning. He has
+        co-founded Google Brain and deeplearning.ai, and is currently the CEO of
+        Landing AI.
+  - data:
+      id: people
+      type: node
+      text: >-
+        1. Andrew Ng - A prominent computer scientist and professor known for
+        his contributions to machine learning, including co-founding Google
+        Brain and leading the development of the Coursera platform.
+
+        2. Yann LeCun - A computer scientist and professor recognized for his
+        work in convolutional neural networks, which have been widely used in
+        image recognition tasks and have greatly advanced the field of machine
+        learning.
+
+        3. Fei-Fei Li - A computer scientist and professor who has made
+        significant contributions to computer vision and deep learning,
+        including co-founding the AI4ALL organization to increase diversity in
+        the field of artificial intelligence.
+  - data:
+      id: graph-based
+      type: node
+      text: >-
+        Graph-based semi-supervised learning involves using the relationships
+        between data points in a graph structure to infer labels for unlabeled
+        data points, often through techniques like label propagation or graph
+        convolutional networks.
+  - data:
+      id: active
+      type: node
+      text: >-
+        Active semi-supervised learning involves the algorithm actively
+        selecting which data points to label in order to improve its
+        performance, rather than using all available unlabeled data.
+  - data:
+      id: unlabeled
+      type: node
+      text: >-
+        Unlabeled refers to data that has not been assigned a specific label or
+        category, and therefore lacks a clear meaning or purpose. In
+        semi-supervised learning, the goal is to use a combination of labeled
+        and unlabeled data to improve the performance of a machine learning
+        model.
+  - data:
+      id: semi-supervised
+      type: node
+      text: >-
+        Semi-supervised reinforcement learning involves training a model using
+        both labeled and unlabeled data, where the labeled data provides
+        explicit feedback on the desired outcome while the unlabeled data
+        provides additional information for the model to learn from.
+  - data:
+      id: reinforcement
+      type: node
+      text: >-
+        Reinforcement is the process of strengthening a behavior by associating
+        it with a positive consequence or removing a negative consequence.
+  - data:
+      id: deviation
+      type: node
+      text: >-
+        Deviation refers to the difference or distance between the actual values
+        and the expected values in a dataset. It is used to identify patterns or
+        outliers that deviate significantly from the normal behavior of the
+        data.
+  - data:
+      id: novelty
+      type: node
+      text: >-
+        Novelty refers to the presence of data points or patterns that are
+        significantly different from the majority of data points in a dataset.
+        These anomalies are considered novel and may indicate potential threats
+        or opportunities for further investigation.
+  - data:
+      id: outlier
+      type: node
+      text: >-
+        Outliers are data points that significantly deviate from the majority of
+        the data points in a dataset. They can indicate errors in data
+        collection or represent rare events, and are often the focus of
+        anomaly-detection algorithms.
+  - data:
+      id: anomaly-detection
+      type: node
+      text: >-
+        Anomaly detection is a technique used to identify unusual or abnormal
+        data points in a dataset, which deviate significantly from the majority
+        of the data. It is often used to detect fraudulent activities, errors,
+        or outliers in a dataset.
+  - data:
+      id: unsupervised
+      type: node
+      text: >-
+        Unsupervised refers to a type of learning or analysis where the
+        algorithm does not receive labeled data or explicit instructions, but
+        instead must find patterns and relationships on its own. It is often
+        used in situations where there is no clear outcome or goal to be
+        achieved.
+  - data:
+      id: deep
+      type: node
+      text: >-
+        Deep refers to the number of hidden layers in a neural network, with
+        deeper networks having more hidden layers. This allows for more complex
+        and abstract representations of data, leading to better performance on
+        tasks such as image recognition and natural language processing.
+  - data:
+      id: recurrent
+      type: node
+      text: >-
+        Recurrent refers to a type of neural network architecture that allows
+        for the utilization of sequential data by incorporating feedback loops
+        in the network, allowing it to remember and process past information.
+  - data:
+      id: convolutional
+      type: node
+      text: >-
+        Convolutional refers to a type of neural network architecture that
+        involves applying filters to input data in order to extract features and
+        learn patterns. This type of architecture is commonly used in image
+        recognition tasks.
+  - data:
+      id: neural-networks
+      type: node
+      text: >-
+        Neural networks are a type of machine learning algorithm that uses a
+        network of interconnected nodes to classify and predict data, with input
+        and output layers and one or more hidden layers in between. They are
+        trained using labeled data and are capable of handling complex and
+        non-linear relationships between input and output variables.
+  - data:
+      id: dimensionality-reduction
+      type: node
+      text: >-
+        Dimensionality reduction is the process of reducing the number of
+        features or variables in a dataset, typically through techniques such as
+        principal component analysis or feature selection, in order to simplify
+        the data and improve the performance of classification models.
+  - data:
+      id: clustering
+      type: node
+      text: >-
+        Clustering is an unsupervised learning technique that involves grouping
+        similar data points together based on their characteristics, without any
+        predetermined labels or target classes. It is used to discover patterns
+        and relationships within the data, and can be helpful in identifying
+        potential categories or classes for classification.
+  - data:
+      id: regression
+      type: node
+      text: >-
+        Regression is a statistical method used to predict a continuous
+        numerical value based on a set of independent variables, as opposed to
+        classification which predicts a categorical label.
+  - data:
+      id: classification
+      type: node
+      text: >-
+        Classification is a type of supervised learning where the goal is to
+        predict the category or class that a new data point belongs to based on
+        its features and a labeled dataset.
+  - data:
+      id: supervised
+      type: node
+      text: >-
+        Supervised learning is a type of machine learning where the algorithm is
+        trained on a labeled dataset, meaning the input data is paired with the
+        desired output. This allows the algorithm to learn from the data and
+        make predictions or decisions based on the labeled data.
+  - data:
+      id: concepts
+      type: node
+      text: >-
+        1. Supervised learning: A type of machine learning where the algorithm
+        is trained on a labeled dataset to make predictions on new, unlabeled
+        data.
+
+
+        2. Unsupervised learning: A type of machine learning where the algorithm
+        learns patterns and relationships in data without being given specific
+        labels or outcomes to predict.
+
+
+        3. Reinforcement learning: A type of machine learning where the
+        algorithm learns through trial and error and is rewarded or punished
+        based on its actions, allowing it to improve its decision-making over
+        time.
+  - data:
+      id: machine-learning
+      color: '#FF0088'
+      type: node
+      meta:
+        root: true
+      text: >-
+        Machine learning is a subfield of artificial intelligence that involves
+        developing algorithms and statistical models that allow computers to
+        learn and make predictions or decisions without being explicitly
+        programmed. It is based on the idea that machines can learn from data,
+        identify patterns, and make decisions or predictions with minimal human
+        intervention.
+
+
+        The main goal of machine learning is to create models that can learn
+        from data and improve their performance over time. This is accomplished
+        through the use of various techniques such as supervised learning,
+        unsupervised learning, and reinforcement learning. In supervised
+        learning, the model is trained on a labeled dataset, where the desired
+        outcome is already known. The model then uses this information to make
+        predictions on new, unseen data. In unsupervised learning, the model is
+        given an unlabeled dataset and is tasked with finding patterns and
+        relationships within the data. Reinforcement learning involves training
+        a model to make decisions based on a system of rewards and punishments.
+
+
+        One of the key advantages of machine learning is its ability to handle
+        large and complex datasets. With the increase in the amount of data
+        being generated, traditional methods of data analysis and
+        decision-making have become insufficient. Machine learning algorithms
+        can process and analyze large amounts of data quickly and accurately,
+        making it ideal for tasks such as image and speech recognition, natural
+        language processing,
