@@ -1,36 +1,22 @@
 {
   "main": {
-    "id": "bdccda37c96c4da6",
+    "id": "737fba3de0234906",
     "type": "split",
     "children": [
       {
-        "id": "f644c2cc00e1bed3",
+        "id": "6e23ad3c019e7d2e",
         "type": "tabs",
         "children": [
           {
-            "id": "d32eed8fab20b155",
+            "id": "3aac50253864a529",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "concepts.md",
+                "file": "coral.md",
                 "mode": "source",
                 "source": false
               }
-            }
-          }
-        ]
-      },
-      {
-        "id": "ecc3e331100cc327",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "228e8fc7098c25b1",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
             }
           }
         ]
@@ -39,25 +25,25 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "6d7fab7e71fe8fa5",
+    "id": "54a8b8a9aaa8f371",
     "type": "split",
     "children": [
       {
-        "id": "6b50a4237ff28d15",
+        "id": "470b421e46850805",
         "type": "tabs",
         "children": [
           {
-            "id": "99386c1197416c55",
+            "id": "ac1578e78ea531fd",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "byModifiedTime"
+                "sortOrder": "alphabetical"
               }
             }
           },
           {
-            "id": "17041d092cdeca86",
+            "id": "caaa14a0248f112b",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -72,7 +58,7 @@
             }
           },
           {
-            "id": "a7f322235be081e5",
+            "id": "d4335b717d338352",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -83,23 +69,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 227.5
+    "width": 300
   },
   "right": {
-    "id": "198a7c5afa85a4fd",
+    "id": "7a5f49a82753cf5b",
     "type": "split",
     "children": [
       {
-        "id": "af1673cf45ba5b24",
+        "id": "8fb3c4ac45d7f15d",
         "type": "tabs",
         "children": [
           {
-            "id": "1f15bac254dd4105",
+            "id": "353997280ffe663d",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "concepts.md",
+                "file": "coral.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,19 +97,19 @@
             }
           },
           {
-            "id": "f2afe94ab5c04de0",
+            "id": "f1d94e68992062d8",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "concepts.md",
+                "file": "coral.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "d43b980f361045a8",
+            "id": "8e3164ed237e2e27",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -134,12 +120,12 @@
             }
           },
           {
-            "id": "d309cbbbbcd38b63",
+            "id": "614e070245b0cec4",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "concepts.md"
+                "file": "coral.md"
               }
             }
           }
@@ -147,7 +133,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -159,33 +146,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d32eed8fab20b155",
+  "active": "3aac50253864a529",
   "lastOpenFiles": [
-    "technological_advancements.md",
-    "people.md",
-    "quantum_computing.md",
-    "ai.md",
-    "radical_change.md",
-    "futurist.md",
-    "automation.md",
-    "_ecological_restoration.md",
-    "postcapitalism.md",
-    "utopianism.md",
-    "progress.md",
-    "concepts.md",
-    "ray_kurzweil.md",
-    "decentralization.md",
-    "mindmap.md",
-    "reforestation.md",
-    "wetland_rehabilitation.md",
-    "related.md",
-    "cyberneticism.md",
-    "mark_fisher.md",
-    "control.md",
-    "cybernetic.md",
-    "ecological_restoration.md",
-    "flowchart.md",
-    "start.md",
-    "transhumanism.md"
+    "barrier_reef.md",
+    "aquaculture.md",
+    "hammerhead.md",
+    "events.md",
+    "coral.md",
+    "aquatic_life.md",
+    "angler.md"
   ]
 }

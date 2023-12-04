@@ -1,0 +1,592 @@
+name: fish
+elements:
+  - data:
+      source: kelp_forest
+      target: algae
+      type: link
+  - data:
+      source: kelp_forest
+      target: seaweed
+      type: link
+  - data:
+      source: marine_ecology
+      target: kelp_forest
+      type: link
+  - data:
+      source: related
+      target: marine_ecology
+      type: link
+  - data:
+      source: marine_mammals
+      target: whale
+      type: link
+  - data:
+      source: marine_mammals
+      target: dolphin
+      type: link
+  - data:
+      source: aquatic_life
+      target: marine_mammals
+      type: link
+  - data:
+      source: coral_reef
+      target: atoll
+      type: link
+  - data:
+      source: coral_reef
+      target: barrier_reef
+      type: link
+  - data:
+      source: aquatic_life
+      target: coral_reef
+      type: link
+  - data:
+      source: related
+      target: aquatic_life
+      type: link
+  - data:
+      source: migration
+      target: smolt_run
+      type: link
+  - data:
+      source: spawning
+      target: _breeding
+      type: link
+  - data:
+      source: spawning
+      target: _reproduction
+      type: link
+  - data:
+      source: migration
+      target: spawning
+      type: link
+  - data:
+      source: events
+      target: migration
+      type: link
+  - data:
+      source: salmon_ranchers
+      target: hatcheries
+      type: link
+  - data:
+      source: salmon_ranchers
+      target: aquaculture
+      type: link
+  - data:
+      source: salmon_farmer
+      target: salmon_ranchers
+      type: link
+  - data:
+      source: aquaculturists
+      target: aquaculture_specialist
+      type: link
+  - data:
+      source: aquaculturists
+      target: fish_farmer
+      type: link
+  - data:
+      source: salmon_farmer
+      target: aquaculturists
+      type: link
+  - data:
+      source: people
+      target: salmon_farmer
+      type: link
+  - data:
+      source: george_barlow
+      target: angler
+      type: link
+  - data:
+      source: george_barlow
+      target: seafood
+      type: link
+  - data:
+      source: ichthyologist
+      target: george_barlow
+      type: link
+  - data:
+      source: eugenie_clark
+      target: marine_biologist
+      type: link
+  - data:
+      source: ichthyologist
+      target: eugenie_clark
+      type: link
+  - data:
+      source: people
+      target: ichthyologist
+      type: link
+  - data:
+      source: reptiles
+      target: turtles
+      type: link
+  - data:
+      source: reptiles
+      target: crocodiles
+      type: link
+  - data:
+      source: vertebrate
+      target: reptiles
+      type: link
+  - data:
+      source: amphibians
+      target: salamander
+      type: link
+  - data:
+      source: amphibians
+      target: frog
+      type: link
+  - data:
+      source: vertebrate
+      target: amphibians
+      type: link
+  - data:
+      source: concepts
+      target: vertebrate
+      type: link
+  - data:
+      source: shark
+      target: mako
+      type: link
+  - data:
+      source: shark
+      target: hammerhead
+      type: link
+  - data:
+      source: aquatic
+      target: shark
+      type: link
+  - data:
+      source: coral
+      target: sea_anemone
+      type: link
+  - data:
+      source: coral
+      target: brain_coral
+      type: link
+  - data:
+      source: aquatic
+      target: coral
+      type: link
+  - data:
+      source: concepts
+      target: aquatic
+      type: link
+  - data:
+      id: algae
+      type: node
+      text: >-
+        Algae are a diverse group of photosynthetic organisms that play a
+        crucial role in kelp forest ecosystems. They provide food and habitat
+        for a variety of marine species, and their production of oxygen helps to
+        maintain the health and balance of the ecosystem.
+  - data:
+      id: seaweed
+      type: node
+      text: >-
+        Seaweed, also known as macroalgae, is a type of marine plant that grows
+        in shallow, nutrient-rich waters. It plays a vital role in the ecosystem
+        of kelp forests by providing food and shelter for a variety of marine
+        organisms.
+  - data:
+      id: kelp_forest
+      type: node
+      text: >-
+        Kelp forests are underwater ecosystems dominated by large brown algae
+        called kelp, which provide important habitat and food sources for a
+        variety of marine animals. These forests are typically found in cold,
+        nutrient-rich waters and are considered one of the most productive and
+        diverse marine habitats.
+  - data:
+      id: marine_ecology
+      type: node
+      text: >-
+        Marine ecology is the study of how marine organisms interact with each
+        other and their environment, including the physical, chemical, and
+        biological factors that influence their distribution, abundance, and
+        behavior in the ocean.
+  - data:
+      id: whale
+      type: node
+      text: >-
+        Whales are large marine mammals that are found in all of the world's
+        oceans. They are known for their unique adaptations to aquatic life,
+        such as their streamlined bodies, flippers, and blowholes for breathing.
+  - data:
+      id: dolphin
+      type: node
+      text: >-
+        Dolphins are highly intelligent marine mammals known for their playful
+        behavior and complex social structures. They use echolocation to
+        communicate and navigate in the water.
+  - data:
+      id: marine_mammals
+      type: node
+      text: >-
+        Marine mammals are a diverse group of animals that have adapted to life
+        in the ocean, including whales, dolphins, seals, and sea lions. They are
+        warm-blooded, breathe air, and give birth to live young.
+  - data:
+      id: atoll
+      type: node
+      text: >-
+        An atoll is a ring-shaped coral reef or island that surrounds a lagoon.
+        It is typically formed from the remnants of an extinct volcano and is
+        found in warm, tropical waters.
+  - data:
+      id: barrier_reef
+      type: node
+      text: >-
+        A barrier reef is a type of coral reef that runs parallel to the
+        coastline and is separated from the shore by a lagoon. It acts as a
+        natural barrier, protecting the coastline from strong waves and erosion.
+  - data:
+      id: coral_reef
+      type: node
+      text: >-
+        Coral reef is a diverse ecosystem found in warm, shallow waters that is
+        home to a variety of marine plants and animals, including colorful coral
+        polyps, fish, and other invertebrates. They are vital for maintaining
+        biodiversity and providing protection for coastlines.
+  - data:
+      id: aquatic_life
+      type: node
+      text: >-
+        Aquatic life refers to all living organisms that inhabit bodies of
+        water, including fish, invertebrates, plants, and microorganisms. They
+        play important roles in maintaining the health and balance of aquatic
+        ecosystems.
+  - data:
+      id: related
+      type: node
+      text: >-
+        1) Aquaculture: This is the practice of farming fish in controlled
+        environments, often for commercial purposes. 
+
+        2) Biodiversity: Fish play a vital role in maintaining the health and
+        diversity of aquatic ecosystems. 
+
+        3) Overfishing: This refers to the depletion of fish populations due to
+        excessive and unsustainable harvesting practices.
+  - data:
+      id: smolt_run
+      type: node
+      text: >-
+        Smolt_run is a process in the migration of fish where juvenile salmon
+        migrate from freshwater to the ocean. It is an important stage in the
+        salmon life cycle and helps to replenish their populations.
+  - data:
+      id: breeding
+      type: node
+      text: >-
+        Breeding refers to the process of animals or plants reproducing and
+        producing offspring, typically through sexual reproduction. This can
+        involve specific behaviors and physical changes in order to attract a
+        mate and successfully produce offspring.
+  - data:
+      id: reproduction
+      type: node
+      text: >-
+        Reproduction is the process by which organisms produce offspring,
+        ensuring the continuation of their species. In the context of spawning,
+        it refers specifically to the release and fertilization of eggs and
+        sperm, leading to the development of new individuals.
+  - data:
+      id: spawning
+      type: node
+      text: >-
+        Spawning refers to the act of fish or other aquatic animals laying their
+        eggs in a specific location, usually in a large group, as part of their
+        seasonal migration pattern.
+  - data:
+      id: migration
+      type: node
+      text: >-
+        Migration refers to the movement of individuals or groups of people from
+        one place to another, often motivated by economic, social, or political
+        factors. It can occur within a country or across borders, and can have
+        both positive and negative impacts on the individuals and societies
+        involved.
+  - data:
+      id: events
+      type: node
+      text: >-
+        1. "World Fisheries Day" is an annual event celebrated on November 21st
+        to raise awareness about the importance of sustainable fishing practices
+        and the conservation of fish populations. 
+
+
+        2. "The Great Pacific Garbage Patch" is a major event caused by ocean
+        pollution, which has a significant impact on marine life, including
+        fish. It is a large accumulation of plastic debris in the Pacific Ocean,
+        affecting the ecosystem and threatening the survival of many fish
+        species. 
+
+
+        3. "The collapse of the Atlantic cod fishery" in the late 20th century
+        was a significant event that resulted in the decline of cod populations
+        due to overfishing and mismanagement, leading to the loss of a major
+        commercial and food source for many communities.
+  - data:
+      id: hatcheries
+      type: node
+      text: >-
+        Hatcheries are facilities that artificially breed and rear salmon for
+        commercial purposes. They play a crucial role in the salmon industry by
+        supplying a steady and consistent source of fish for ranchers to release
+        into the ocean for eventual harvest.
+  - data:
+      id: aquaculture
+      type: node
+      text: >-
+        Aquaculture is the practice of farming aquatic organisms such as fish,
+        shellfish, and seaweed in controlled environments such as ponds, tanks,
+        or cages. It is a major industry for salmon_ranchers, as it allows them
+        to raise and harvest large quantities of salmon for commercial purposes.
+  - data:
+      id: salmon_ranchers
+      type: node
+      text: >-
+        Salmon ranchers are individuals or companies that own and operate salmon
+        ranches, which are large-scale facilities that cultivate and raise
+        salmon for commercial purposes. They play a crucial role in the global
+        salmon farming industry by providing a consistent supply of high-quality
+        salmon to meet the demands of consumers.
+  - data:
+      id: aquaculture_specialist
+      type: node
+      text: >-
+        An aquaculture specialist is a professional who specializes in the
+        cultivation and management of aquatic plants and animals for commercial
+        purposes, such as fish, shellfish, and seaweed. They have expertise in
+        various aspects of aquaculture, including breeding, feeding, disease
+        prevention, and water quality management.
+  - data:
+      id: fish_farmer
+      type: node
+      text: >-
+        A fish farmer is someone who cultivates fish for commercial purposes,
+        typically in a controlled environment such as a pond or tank. They are
+        responsible for the care and management of the fish, as well as the
+        overall production and sale of their products.
+  - data:
+      id: aquaculturists
+      type: node
+      text: >-
+        Aquaculturists are professionals who specialize in the cultivation and
+        management of aquatic organisms, such as salmon, for commercial
+        purposes. They are responsible for overseeing the entire process of
+        raising salmon, from breeding and feeding to harvesting and ensuring the
+        health and sustainability of the fish.
+  - data:
+      id: salmon_farmer
+      type: node
+      text: >-
+        Salmon farmers are individuals who cultivate and raise salmon in
+        controlled environments, such as fish farms, for commercial purposes.
+  - data:
+      id: angler
+      type: node
+      text: >-
+        Angler is a term often used to describe a person who enjoys and
+        participates in the sport of fishing. It can also refer to the equipment
+        and techniques used for fishing.
+  - data:
+      id: seafood
+      type: node
+      text: >-
+        Seafood refers to any type of sea life that is consumed as food, such as
+        fish, shellfish, and crustaceans. It is a popular and diverse category
+        of food, with a wide range of flavors and cooking methods.
+  - data:
+      id: george_barlow
+      type: node
+      text: >-
+        George Barlow (1847-1913) was an American ichthyologist known for his
+        research on the classification and evolution of fish. He was a curator
+        at the Museum of Comparative Zoology at Harvard University and published
+        numerous papers and books on fish taxonomy.
+  - data:
+      id: marine_biologist
+      type: node
+      text: >-
+        A marine biologist is a scientist who studies marine life and their
+        habitats, including their behaviors, interactions, and adaptations. They
+        may also work to conserve and protect marine ecosystems.
+  - data:
+      id: eugenie_clark
+      type: node
+      text: >-
+        Eugenie Clark was a renowned American marine biologist and
+        ichthyologist, known as the "Shark Lady" for her extensive research on
+        sharks and other fish species. She was a pioneer in the field of marine
+        conservation and a leading figure in promoting public awareness and
+        understanding of the ocean and its inhabitants.
+  - data:
+      id: ichthyologist
+      type: node
+      text: >-
+        An ichthyologist is a scientist who studies fish, including their
+        behavior, anatomy, and evolution. They may also specialize in specific
+        types of fish or aquatic ecosystems.
+  - data:
+      id: people
+      type: node
+      text: >-
+        1. Ichthyologist - a scientist who studies fish and their behavior,
+        anatomy, and distribution.
+
+        2. Aquaculturist - a person who cultivates and harvests fish and other
+        aquatic organisms for food or commercial purposes.
+
+        3. Fisherman - a person who catches fish for sport or for a living.
+  - data:
+      id: turtles
+      type: node
+      text: >-
+        Turtles are a type of reptile characterized by their hard, protective
+        shells and slow-moving nature. They can be found in a variety of
+        habitats, both on land and in water, and are known for their long
+        lifespans.
+  - data:
+      id: crocodiles
+      type: node
+      text: >-
+        Crocodiles are large, semi-aquatic reptiles with long, powerful jaws and
+        thick, scaly skin. They are known for their ability to hunt and kill
+        prey both on land and in the water.
+  - data:
+      id: reptiles
+      type: node
+      text: >-
+        Reptiles are cold-blooded vertebrates that have scaly skin and lay eggs
+        on land. They include animals such as snakes, lizards, turtles, and
+        crocodiles.
+  - data:
+      id: salamander
+      type: node
+      text: >-
+        Salamanders are a type of amphibian characterized by their long, slender
+        bodies and ability to regenerate lost body parts. They typically have
+        moist skin and are found in a variety of habitats, including both
+        aquatic and terrestrial environments.
+  - data:
+      id: frog
+      type: node
+      text: >-
+        Frogs are a type of amphibian with smooth, moist skin and long hind legs
+        for jumping. They have a unique life cycle where they start as tadpoles
+        in water and eventually develop into adults that can live on land and in
+        water.
+  - data:
+      id: amphibians
+      type: node
+      text: >-
+        Amphibians are cold-blooded vertebrates that typically have moist,
+        smooth skin and live part of their lives in water and part on land. They
+        undergo metamorphosis from a larval aquatic form to an adult terrestrial
+        form.
+  - data:
+      id: vertebrate
+      type: node
+      text: >-
+        Vertebrates are animals that have a backbone or spinal column, including
+        mammals, birds, reptiles, amphibians, and fish. They also have a
+        well-developed nervous system and a bilateral symmetry.
+  - data:
+      id: mako
+      type: node
+      text: >-
+        Mako sharks are known for their incredible speed and agility, able to
+        swim up to 60 miles per hour. They are also known for their sharp teeth
+        and slender bodies, making them formidable predators in the ocean.
+  - data:
+      id: hammerhead
+      type: node
+      text: >-
+        Hammerhead is a type of shark known for its unique, flattened head shape
+        that resembles a hammer. They are found in tropical and temperate waters
+        around the world and are known for their excellent sensory abilities.
+  - data:
+      id: shark
+      type: node
+      text: >-
+        A shark is a large predatory fish with a streamlined body and sharp
+        teeth, found in oceans and seas around the world. They are known for
+        their powerful hunting abilities and have been feared by humans for
+        centuries.
+  - data:
+      id: sea_anemone
+      type: node
+      text: >-
+        Sea anemones are marine animals that are closely related to corals and
+        jellyfish. They have a cylindrical body with tentacles surrounding their
+        mouth, which they use to catch prey and for protection.
+  - data:
+      id: brain_coral
+      type: node
+      text: >-
+        Brain coral, also known as foliose coral, is a type of coral that has a
+        convoluted, brain-like appearance due to its folded ridges and valleys.
+        It is a slow-growing coral and can be found in a variety of colors and
+        sizes.
+  - data:
+      id: coral
+      type: node
+      text: >-
+        Coral is a marine invertebrate that forms large colonies of tiny animals
+        called polyps, which secrete a hard exoskeleton made of calcium
+        carbonate. These structures, known as coral reefs, provide essential
+        habitats for a diverse array of marine life.
+  - data:
+      id: aquatic
+      type: node
+      text: >-
+        Aquatic refers to anything related to or living in water. It can also
+        refer to environments, organisms, or activities that are associated with
+        or take place in water.
+  - data:
+      id: concepts
+      type: node
+      text: >-
+        1. Fish are aquatic vertebrates that have fins, gills, and a streamlined
+        body for swimming in water.
+
+
+        2. They are cold-blooded animals that rely on external sources for body
+        temperature regulation.
+
+
+        3. Fish have a diverse range of adaptations for survival in various
+        aquatic environments, including different feeding strategies, body
+        shapes, and reproductive methods.
+  - data:
+      id: fish
+      color: '#FF0088'
+      type: node
+      meta:
+        root: true
+      text: >-
+        Fish are a diverse group of aquatic animals that are found in almost all
+        bodies of water, from the depths of the ocean to freshwater lakes and
+        rivers. They are characterized by their streamlined, torpedo-shaped
+        bodies, fins, and gills, which allow them to move and breathe in water.
+        There are over 34,000 known species of fish, making them the largest
+        group of vertebrates on Earth.
+
+
+        One of the key features of fish is their adaptation to life in water.
+        Their streamlined bodies, along with their fins, allow them to move
+        swiftly and efficiently through the water. The gills, located on the
+        sides of their head, extract oxygen from the water, which is then
+        circulated through their bloodstream. This enables fish to breathe
+        underwater, unlike land animals who breathe air. Some fish, such as
+        lungfish and mudskippers, have also evolved the ability to breathe air
+        through their skin or specialized organs.
+
+
+        Fish also come in a wide range of sizes, shapes, and colors. Some, like
+        the whale shark, can grow up to 40 feet in length, while others, like
+        the dwarf goby, are only a few millimeters long. Some fish have brightly
+        colored scales, while others have a more muted coloration for
+        camouflage. The shape of a fish's

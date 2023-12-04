@@ -12,10 +12,3 @@ flowchart LR
 radical_change --> _ecological_restoration
     radical_change --> _technological_advancement
 ```
-
-```mermaid
-flowchart LR
-    related --> radical_change
-radical_change --> _ecological_restoration
-    radical_change --> _technological_advancement
-```
